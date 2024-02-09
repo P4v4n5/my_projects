@@ -1,0 +1,142 @@
+2024-02-08 16:36:39,537 - INFO - Client started.
+2024-02-08 16:37:23,372 - INFO - Client started.
+2024-02-08 16:37:43,033 - INFO - Message sent to server.
+2024-02-08 16:37:43,034 - INFO - Join message sent to server.
+2024-02-08 16:37:43,043 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 1, "chant": 0, "status": "OPEN", "next_auction": null}
+2024-02-08 16:37:43,305 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 1, "chant": 1, "status": "OPEN", "next_auction": null}
+2024-02-08 16:37:45,525 - INFO - Message sent to server.
+2024-02-08 16:37:45,525 - INFO - Bid message sent to server: {"request_type": "BID", "bid_amount": 55}
+2024-02-08 16:37:45,696 - INFO - Received server response: {"request_type": "BID_ACK", "bid_status": "ACCEPTED"}
+2024-02-08 16:37:53,312 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 55, "highest_bidder": "129.210.245.76:59641", "n_clients": 1, "chant": 1, "status": "OPEN", "next_auction": null}
+2024-02-08 16:38:03,322 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 55, "highest_bidder": "129.210.245.76:59641", "n_clients": 1, "chant": 2, "status": "OPEN", "next_auction": null}
+2024-02-08 16:38:07,844 - ERROR - Error receiving message from server: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-02-08 16:38:07,845 - INFO - Client connection closed.
+2024-02-08 16:50:07,376 - INFO - Client started.
+2024-02-08 16:55:27,388 - INFO - Message sent to the server.
+2024-02-08 16:55:27,388 - INFO - Join message sent to server.
+2024-02-08 16:55:27,418 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 1, "chant": 0, "status": "OPEN", "next_auction": null}
+2024-02-08 16:55:29,065 - INFO - Message sent to the server.
+2024-02-08 16:55:29,065 - INFO - Bid message sent to server: {"request_type": "BID", "bid_amount": 55}
+2024-02-08 16:55:29,077 - INFO - Received server response: {"request_type": "BID_ACK", "bid_status": "ACCEPTED"}
+2024-02-08 16:55:31,070 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 55, "highest_bidder": "129.210.245.76:60177", "n_clients": 1, "chant": 1, "status": "OPEN", "next_auction": null}
+2024-02-08 16:55:41,193 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 55, "highest_bidder": "129.210.245.76:60177", "n_clients": 2, "chant": 2, "status": "OPEN", "next_auction": null}
+2024-02-08 16:55:51,124 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 55, "highest_bidder": "129.210.245.76:60177", "n_clients": 2, "chant": 3, "status": "OPEN", "next_auction": null}
+2024-02-08 16:56:01,123 - INFO - Received server response: {"request_type": "CLOSE", "highest_bid": 55, "highest_bidder": "129.210.245.76:60177", "n_clients": 2, "chant": 3, "status": "WINNER", "next_auction": null}
+2024-02-08 17:10:05,287 - INFO - Client connection closed.
+2024-02-08 17:10:05,289 - ERROR - Error receiving message from server: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-02-08 17:10:05,512 - INFO - Client started.
+2024-02-08 17:11:39,470 - INFO - Client started.
+2024-02-08 17:15:46,607 - INFO - Client started.
+2024-02-08 17:20:28,360 - INFO - Client started.
+2024-02-08 17:20:42,304 - INFO - Message sent to the server.
+2024-02-08 17:20:42,304 - INFO - Join message sent to server.
+2024-02-08 17:20:42,317 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 1, "chant": 7, "status": "OPEN", "next_auction": null}
+2024-02-08 17:20:50,802 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 1, "chant": 8, "status": "OPEN", "next_auction": null}
+2024-02-08 17:21:00,801 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 1, "chant": 9, "status": "OPEN", "next_auction": null}
+2024-02-08 17:21:43,719 - INFO - Client connection closed.
+2024-02-08 17:21:43,720 - ERROR - Error receiving message from server: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-02-08 17:21:43,956 - INFO - Client started.
+2024-02-08 17:22:03,109 - INFO - Message sent to the server.
+2024-02-08 17:22:03,109 - INFO - Join message sent to server.
+2024-02-08 17:22:03,164 - INFO - Received server response: POST / HTTP/1.1
+Host: http://172.19.37.153:61371
+Content-Type: application/json
+
+{"request_type": "STATUS", "status": "OPEN", "highest_bid": 77, "highest_bidder": "172.19.37.124", "chant": 0, "n_clients": 3, "next_auction": null}
+2024-02-08 17:22:09,763 - INFO - Received server response: POST / HTTP/1.1
+Host: http://172.19.37.153:61371
+Content-Type: application/json
+
+{"request_type": "STATUS", "status": "OPEN", "highest_bid": 500, "highest_bidder": "10.16.8.173", "chant": 1, "n_clients": 3, "next_auction": null}
+2024-02-08 17:22:19,162 - INFO - Message sent to the server.
+2024-02-08 17:22:19,162 - INFO - Bid message sent to server: {"request_type": "BID", "bid_amount": 555}
+2024-02-08 17:23:26,745 - INFO - Client connection closed.
+2024-02-08 17:23:26,992 - INFO - Client started.
+2024-02-08 17:24:19,479 - INFO - Message sent to the server.
+2024-02-08 17:24:19,479 - INFO - Join message sent to server.
+2024-02-08 17:24:19,801 - INFO - Received server response: POST / HTTP/1.1
+Host: http://172.19.37.153:61418
+Content-Type: application/json
+
+{"request_type": "STATUS", "status": "OPEN", "highest_bid": 67, "highest_bidder": "172.19.37.124", "chant": 1, "n_clients": 3, "next_auction": null}
+2024-02-08 17:24:21,180 - INFO - Received server response: POST / HTTP/1.1
+Host: http://172.19.37.153:61418
+Content-Type: application/json
+
+{"request_type": "STATUS", "status": "OPEN", "highest_bid": 67, "highest_bidder": "172.19.37.124", "chant": 2, "n_clients": 3, "next_auction": null}
+2024-02-08 17:24:25,547 - INFO - Message sent to the server.
+2024-02-08 17:24:25,548 - INFO - Bid message sent to server: {"request_type": "BID", "bid_amount": 800}
+2024-02-08 17:26:25,650 - INFO - Message sent to the server.
+2024-02-08 17:26:25,650 - INFO - Bid message sent to server: {"request_type": "BID", "bid_amount": 900}
+2024-02-08 17:28:08,211 - INFO - Client connection closed.
+2024-02-08 17:28:08,443 - INFO - Client started.
+2024-02-08 17:29:44,226 - INFO - Client started.
+2024-02-08 17:32:11,911 - INFO - Client started.
+2024-02-08 17:32:29,471 - INFO - Message sent to the server.
+2024-02-08 17:32:29,471 - INFO - Join message sent to server.
+2024-02-08 17:32:29,479 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 2, "chant": 2, "status": "OPEN", "next_auction": null}
+2024-02-08 17:32:34,635 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 2, "chant": 3, "status": "OPEN", "next_auction": null}
+2024-02-08 17:32:44,617 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 2, "chant": 4, "status": "OPEN", "next_auction": null}
+2024-02-08 17:32:54,621 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 2, "chant": 5, "status": "OPEN", "next_auction": null}
+2024-02-08 17:33:04,802 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 2, "chant": 6, "status": "OPEN", "next_auction": null}
+2024-02-08 17:33:14,730 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 2, "chant": 7, "status": "OPEN", "next_auction": null}
+2024-02-08 17:33:23,841 - INFO - Message sent to the server.
+2024-02-08 17:33:23,841 - INFO - Bid message sent to server: {"request_type": "BID", "bid_amount": 55}
+2024-02-08 17:33:45,424 - ERROR - Error receiving message from server: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-02-08 17:36:19,572 - INFO - Client connection closed.
+2024-02-08 17:36:19,821 - INFO - Client started.
+2024-02-08 17:36:42,154 - INFO - Client started.
+2024-02-08 17:38:05,661 - INFO - Client started.
+2024-02-08 17:41:47,685 - INFO - Client started.
+2024-02-08 17:42:14,731 - INFO - Message sent to the server.
+2024-02-08 17:42:14,731 - INFO - Join message sent to server.
+2024-02-08 17:42:14,741 - INFO - Received server response: HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 157
+
+{"request_type": "STATUS", "status": "OPEN", "highest_bid": 1234, "highest_bidder": ["10.16.8.219", 35008], "chant": 2, "n_clients": 3, "next_auction": null}
+2024-02-08 17:42:18,888 - INFO - Received server response: HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 157
+
+{"request_type": "STATUS", "status": "OPEN", "highest_bid": 1234, "highest_bidder": ["10.16.8.219", 35008], "chant": 3, "n_clients": 3, "next_auction": null}
+2024-02-08 17:42:28,816 - INFO - Received server response: HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 88
+
+{"request_type": "CLOSE", "highest_bid": 1234, "highest_bidder": ["10.16.8.219", 35008]}
+2024-02-08 17:46:16,893 - INFO - Client connection closed.
+2024-02-08 17:46:17,128 - INFO - Client started.
+2024-02-08 17:46:22,580 - INFO - Client started.
+2024-02-08 17:47:12,686 - INFO - Message sent to the server.
+2024-02-08 17:47:12,686 - INFO - Join message sent to server.
+2024-02-08 17:47:18,567 - INFO - Message sent to the server.
+2024-02-08 17:47:18,568 - INFO - Bid message sent to server: {"request_type": "BID", "bid_amount": 5}
+2024-02-08 18:01:37,253 - INFO - Client connection closed.
+2024-02-08 18:01:40,401 - INFO - Client started.
+2024-02-08 18:15:23,232 - INFO - Client started.
+2024-02-08 18:15:26,523 - INFO - Client started.
+2024-02-08 18:15:44,976 - INFO - Message sent to the server.
+2024-02-08 18:15:44,976 - INFO - Join message sent to server.
+2024-02-08 18:15:44,983 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 1, "chant": 6, "status": "OPEN", "next_auction": null}
+2024-02-08 18:15:50,276 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 1, "chant": 7, "status": "OPEN", "next_auction": null}
+2024-02-08 18:16:00,538 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 1, "chant": 8, "status": "OPEN", "next_auction": null}
+2024-02-08 18:16:10,378 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 1, "chant": 9, "status": "OPEN", "next_auction": null}
+2024-02-08 18:16:20,310 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 1, "chant": 10, "status": "OPEN", "next_auction": null}
+2024-02-08 18:16:30,644 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 1, "chant": 11, "status": "OPEN", "next_auction": null}
+2024-02-08 18:16:33,019 - INFO - Client connection closed.
+2024-02-08 18:16:33,020 - ERROR - Error receiving message from server: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-02-08 18:16:33,729 - INFO - Client started.
+2024-02-08 18:16:39,595 - INFO - Client started.
+2024-02-08 18:24:33,177 - INFO - Client started.
+2024-02-08 18:25:33,694 - INFO - Message sent to the server.
+2024-02-08 18:25:33,694 - INFO - Join message sent to server.
+2024-02-08 18:25:33,703 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 1, "chant": 1, "status": "OPEN", "next_auction": null}
+2024-02-08 18:25:35,450 - INFO - Message sent to the server.
+2024-02-08 18:25:35,450 - INFO - Bid message sent to server: {"request_type": "BID", "bid_amount": 55}
+2024-02-08 18:25:35,458 - INFO - Received server response: {"request_type": "BID_ACK", "bid_status": "ACCEPTED"}
+2024-02-08 18:25:36,774 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 55, "highest_bidder": "1:2", "n_clients": 1, "chant": 1, "status": "OPEN", "next_auction": null}
+2024-02-08 18:25:46,794 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 55, "highest_bidder": "1:2", "n_clients": 1, "chant": 2, "status": "OPEN", "next_auction": null}
+2024-02-08 18:25:56,809 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 55, "highest_bidder": "1:2", "n_clients": 1, "chant": 3, "status": "OPEN", "next_auction": null}
+2024-02-08 18:26:06,816 - INFO - Received server response: {"request_type": "CLOSE", "highest_bid": 55, "highest_bidder": "1:2", "n_clients": 1, "chant": 3, "status": "WINNER", "next_auction": null}
+2024-02-08 19:58:06,475 - ERROR - Error receiving message from server: [WinError 10053] An established connection was aborted by the software in your host machine

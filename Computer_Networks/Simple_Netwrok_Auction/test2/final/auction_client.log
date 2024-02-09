@@ -1,0 +1,29 @@
+2024-02-08 16:31:20,412 - INFO - Client started.
+2024-02-08 16:32:02,241 - INFO - Message sent to server.
+2024-02-08 16:32:02,241 - INFO - Join message sent to server.
+2024-02-08 16:32:02,316 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 1, "chant": 1, "status": "OPEN", "next_auction": null}
+2024-02-08 16:32:03,707 - INFO - Message sent to server.
+2024-02-08 16:32:03,707 - INFO - Bid message sent to server: {"request_type": "BID", "bid_amount": 55}
+2024-02-08 16:32:03,787 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 0, "highest_bidder": null, "n_clients": 1, "chant": 2, "status": "OPEN", "next_auction": null}
+2024-02-08 16:32:03,841 - INFO - Received server response: {"request_type": "BID_ACK", "bid_status": "ACCEPTED"}
+2024-02-08 16:32:13,792 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 55, "highest_bidder": "129.210.245.76:59491", "n_clients": 2, "chant": 1, "status": "OPEN", "next_auction": null}
+2024-02-08 16:32:23,801 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 60, "highest_bidder": "129.210.245.76:64311", "n_clients": 2, "chant": 1, "status": "OPEN", "next_auction": null}
+2024-02-08 16:32:33,811 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 60, "highest_bidder": "129.210.245.76:64311", "n_clients": 2, "chant": 2, "status": "OPEN", "next_auction": null}
+2024-02-08 16:32:35,447 - INFO - Message sent to server.
+2024-02-08 16:32:35,447 - INFO - Bid message sent to server: {"request_type": "BID", "bid_amount": 60}
+2024-02-08 16:32:35,622 - INFO - Received server response: {"request_type": "BID_ACK", "bid_status": "REJECTED"}
+2024-02-08 16:32:40,912 - INFO - Message sent to server.
+2024-02-08 16:32:40,913 - INFO - Bid message sent to server: {"request_type": "BID", "bid_amount": 75}
+2024-02-08 16:32:40,946 - INFO - Received server response: {"request_type": "BID_ACK", "bid_status": "ACCEPTED"}
+2024-02-08 16:32:43,817 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 75, "highest_bidder": "129.210.245.76:59491", "n_clients": 2, "chant": 1, "status": "OPEN", "next_auction": null}
+2024-02-08 16:32:53,817 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 100, "highest_bidder": "129.210.245.76:64311", "n_clients": 2, "chant": 1, "status": "OPEN", "next_auction": null}
+2024-02-08 16:33:03,829 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 100, "highest_bidder": "129.210.245.76:64311", "n_clients": 2, "chant": 2, "status": "OPEN", "next_auction": null}
+2024-02-08 16:33:05,516 - INFO - Message sent to server.
+2024-02-08 16:33:05,516 - INFO - Bid message sent to server: {"request_type": "BID", "bid_amount": 110}
+2024-02-08 16:33:05,829 - INFO - Received server response: {"request_type": "BID_ACK", "bid_status": "ACCEPTED"}
+2024-02-08 16:33:13,830 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 110, "highest_bidder": "129.210.245.76:59491", "n_clients": 2, "chant": 1, "status": "OPEN", "next_auction": null}
+2024-02-08 16:33:23,850 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 110, "highest_bidder": "129.210.245.76:59491", "n_clients": 2, "chant": 2, "status": "OPEN", "next_auction": null}
+2024-02-08 16:33:33,875 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 110, "highest_bidder": "129.210.245.76:59491", "n_clients": 2, "chant": 3, "status": "OPEN", "next_auction": null}
+2024-02-08 16:33:43,866 - INFO - Received server response: {"request_type": "CLOSE", "highest_bid": 110, "highest_bidder": "129.210.245.76:59491", "n_clients": 2, "chant": 3, "status": "WINNER", "next_auction": null}
+2024-02-08 16:33:47,982 - ERROR - Error receiving message from server: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-02-08 16:34:16,411 - INFO - Client connection closed.
