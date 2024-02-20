@@ -1,0 +1,500 @@
+2024-02-12 23:13:15,197 - INFO - Server started, listening on 10.0.0.218:8200
+2024-02-12 23:13:15,197 - INFO - Ready to serve...
+2024-02-12 23:13:15,197 - INFO - Waiting for connection...
+2024-02-12 23:13:17,118 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 49323)
+2024-02-12 23:13:17,118 - INFO - Responding with success: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<html><body><h1>404 Not Found</h1></body></html>
+2024-02-12 23:13:17,118 - INFO - Connection with ('10.0.0.218', 49323) closed
+2024-02-12 23:13:17,118 - INFO - Ready to serve...
+2024-02-12 23:13:17,118 - INFO - Waiting for connection...
+2024-02-12 23:13:23,023 - INFO - Sent normal response to ('10.0.0.218', 49324)
+2024-02-12 23:13:23,023 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><p>This is a sample HTML.</p></body></html>
+2024-02-12 23:13:23,023 - INFO - Connection with ('10.0.0.218', 49324) closed
+2024-02-12 23:13:23,023 - INFO - Ready to serve...
+2024-02-12 23:13:23,023 - INFO - Waiting for connection...
+2024-02-12 23:13:23,023 - INFO - Sent normal response to ('10.0.0.218', 49325)
+2024-02-12 23:13:23,024 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><p>This is a sample HTML.</p></body></html>
+2024-02-12 23:13:23,024 - INFO - Connection with ('10.0.0.218', 49325) closed
+2024-02-12 23:13:23,024 - INFO - Ready to serve...
+2024-02-12 23:13:23,024 - INFO - Waiting for connection...
+2024-02-12 23:13:23,738 - INFO - Sent normal response to ('10.0.0.218', 49329)
+2024-02-12 23:13:23,739 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><p>This is a sample HTML.</p></body></html>
+2024-02-12 23:13:23,739 - INFO - Connection with ('10.0.0.218', 49329) closed
+2024-02-12 23:13:23,739 - INFO - Ready to serve...
+2024-02-12 23:13:23,739 - INFO - Waiting for connection...
+2024-02-12 23:13:24,323 - INFO - Sent normal response to ('10.0.0.218', 49330)
+2024-02-12 23:13:24,323 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><p>This is a sample HTML.</p></body></html>
+2024-02-12 23:13:24,323 - INFO - Connection with ('10.0.0.218', 49330) closed
+2024-02-12 23:13:24,324 - INFO - Ready to serve...
+2024-02-12 23:13:24,324 - INFO - Waiting for connection...
+2024-02-12 23:13:24,785 - INFO - Sent normal response to ('10.0.0.218', 49331)
+2024-02-12 23:13:24,785 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><p>This is a sample HTML.</p></body></html>
+2024-02-12 23:13:24,785 - INFO - Connection with ('10.0.0.218', 49331) closed
+2024-02-12 23:13:24,785 - INFO - Ready to serve...
+2024-02-12 23:13:24,785 - INFO - Waiting for connection...
+2024-02-12 23:13:25,161 - INFO - Sent normal response to ('10.0.0.218', 49332)
+2024-02-12 23:13:25,161 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><p>This is a sample HTML.</p></body></html>
+2024-02-12 23:13:25,161 - INFO - Connection with ('10.0.0.218', 49332) closed
+2024-02-12 23:13:25,161 - INFO - Ready to serve...
+2024-02-12 23:13:25,161 - INFO - Waiting for connection...
+2024-02-12 23:13:25,523 - INFO - Sent normal response to ('10.0.0.218', 49333)
+2024-02-12 23:13:25,525 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><p>This is a sample HTML.</p></body></html>
+2024-02-12 23:13:25,525 - INFO - Connection with ('10.0.0.218', 49333) closed
+2024-02-12 23:13:25,525 - INFO - Ready to serve...
+2024-02-12 23:13:25,525 - INFO - Waiting for connection...
+2024-02-12 23:13:25,845 - INFO - Sent normal response to ('10.0.0.218', 49334)
+2024-02-12 23:13:25,845 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><p>This is a sample HTML.</p></body></html>
+2024-02-12 23:13:25,846 - INFO - Connection with ('10.0.0.218', 49334) closed
+2024-02-12 23:13:25,846 - INFO - Ready to serve...
+2024-02-12 23:13:25,846 - INFO - Waiting for connection...
+2024-02-12 23:13:25,847 - INFO - Sent normal response to ('10.0.0.218', 49336)
+2024-02-12 23:13:25,847 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><p>This is a sample HTML.</p></body></html>
+2024-02-12 23:13:25,847 - INFO - Connection with ('10.0.0.218', 49336) closed
+2024-02-12 23:13:25,847 - INFO - Ready to serve...
+2024-02-12 23:13:25,847 - INFO - Waiting for connection...
+2024-02-12 23:13:25,978 - ERROR - Sent error response (500 Internal Server Error) to ('10.0.0.218', 49338)
+2024-02-12 23:13:25,980 - INFO - Responding with success: HTTP/1.1 500 Internal Server Error
+Content-Type: text/html
+
+<html><body><h1>500 Internal Server Error</h1></body></html>
+2024-02-12 23:13:25,980 - INFO - Connection with ('10.0.0.218', 49338) closed
+2024-02-12 23:13:25,980 - INFO - Ready to serve...
+2024-02-12 23:13:25,980 - INFO - Waiting for connection...
+2024-02-12 23:13:26,353 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 49339)
+2024-02-12 23:13:26,353 - INFO - Responding with success: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<html><body><h1>404 Not Found</h1></body></html>
+2024-02-12 23:13:26,354 - INFO - Connection with ('10.0.0.218', 49339) closed
+2024-02-12 23:13:26,354 - INFO - Ready to serve...
+2024-02-12 23:13:26,354 - INFO - Waiting for connection...
+2024-02-12 23:13:26,793 - INFO - Sent normal response to ('10.0.0.218', 49340)
+2024-02-12 23:13:26,793 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><p>This is a sample HTML.</p></body></html>
+2024-02-12 23:13:26,793 - INFO - Connection with ('10.0.0.218', 49340) closed
+2024-02-12 23:13:26,793 - INFO - Ready to serve...
+2024-02-12 23:13:26,793 - INFO - Waiting for connection...
+2024-02-12 23:13:27,096 - ERROR - Sent error response (500 Internal Server Error) to ('10.0.0.218', 49341)
+2024-02-12 23:13:27,096 - INFO - Responding with success: HTTP/1.1 500 Internal Server Error
+Content-Type: text/html
+
+<html><body><h1>500 Internal Server Error</h1></body></html>
+2024-02-12 23:13:27,096 - INFO - Connection with ('10.0.0.218', 49341) closed
+2024-02-12 23:13:27,097 - INFO - Ready to serve...
+2024-02-12 23:13:27,097 - INFO - Waiting for connection...
+2024-02-12 23:13:27,633 - INFO - Sent normal response to ('10.0.0.218', 49342)
+2024-02-12 23:13:27,634 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><p>This is a sample HTML.</p></body></html>
+2024-02-12 23:13:27,634 - INFO - Connection with ('10.0.0.218', 49342) closed
+2024-02-12 23:13:27,634 - INFO - Ready to serve...
+2024-02-12 23:13:27,634 - INFO - Waiting for connection...
+2024-02-12 23:13:27,839 - INFO - Sent normal response to ('10.0.0.218', 49343)
+2024-02-12 23:13:27,839 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><p>This is a sample HTML.</p></body></html>
+2024-02-12 23:13:27,839 - INFO - Connection with ('10.0.0.218', 49343) closed
+2024-02-12 23:13:27,839 - INFO - Ready to serve...
+2024-02-12 23:13:27,839 - INFO - Waiting for connection...
+2024-02-12 23:13:28,477 - INFO - Sent normal response to ('10.0.0.218', 49344)
+2024-02-12 23:13:28,477 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><p>This is a sample HTML.</p></body></html>
+2024-02-12 23:13:28,477 - INFO - Connection with ('10.0.0.218', 49344) closed
+2024-02-12 23:13:28,478 - INFO - Ready to serve...
+2024-02-12 23:13:28,478 - INFO - Waiting for connection...
+2024-02-12 23:13:35,856 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 49345)
+2024-02-12 23:13:35,856 - INFO - Responding with success: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<html><body><h1>404 Not Found</h1></body></html>
+2024-02-12 23:13:35,857 - INFO - Connection with ('10.0.0.218', 49345) closed
+2024-02-12 23:13:35,857 - INFO - Ready to serve...
+2024-02-12 23:13:35,857 - INFO - Waiting for connection...
+2024-02-12 23:13:35,858 - INFO - Sent normal response to ('10.0.0.218', 49346)
+2024-02-12 23:13:35,858 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><p>This is a sample HTML.</p></body></html>
+2024-02-12 23:13:35,859 - INFO - Connection with ('10.0.0.218', 49346) closed
+2024-02-12 23:13:35,859 - INFO - Ready to serve...
+2024-02-12 23:13:35,859 - INFO - Waiting for connection...
+2024-02-12 23:14:18,061 - INFO - Sent normal response to ('10.0.0.218', 49370)
+2024-02-12 23:14:18,061 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><p>This is a sample HTML.</p></body></html>
+2024-02-12 23:14:18,061 - INFO - Connection with ('10.0.0.218', 49370) closed
+2024-02-12 23:14:18,061 - INFO - Ready to serve...
+2024-02-12 23:14:18,061 - INFO - Waiting for connection...
+2024-02-12 23:14:25,940 - ERROR - Sent error response (500 Internal Server Error) to ('10.0.0.218', 49371)
+2024-02-12 23:14:25,940 - INFO - Responding with success: HTTP/1.1 500 Internal Server Error
+Content-Type: text/html
+
+<html><body><h1>500 Internal Server Error</h1></body></html>
+2024-02-12 23:14:25,940 - INFO - Connection with ('10.0.0.218', 49371) closed
+2024-02-12 23:14:25,940 - INFO - Ready to serve...
+2024-02-12 23:14:25,940 - INFO - Waiting for connection...
+2024-02-12 23:14:25,941 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 49372)
+2024-02-12 23:14:25,941 - INFO - Responding with success: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<html><body><h1>404 Not Found</h1></body></html>
+2024-02-12 23:14:25,941 - INFO - Connection with ('10.0.0.218', 49372) closed
+2024-02-12 23:14:25,941 - INFO - Ready to serve...
+2024-02-12 23:14:25,941 - INFO - Waiting for connection...
+2024-02-12 23:14:27,601 - INFO - Sent normal response to ('10.0.0.218', 49378)
+2024-02-12 23:14:27,602 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><p>This is a sample HTML.</p></body></html>
+2024-02-12 23:14:27,602 - INFO - Connection with ('10.0.0.218', 49378) closed
+2024-02-12 23:14:27,602 - INFO - Ready to serve...
+2024-02-12 23:14:27,602 - INFO - Waiting for connection...
+2024-02-12 23:14:35,951 - ERROR - Sent error response (500 Internal Server Error) to ('10.0.0.218', 49379)
+2024-02-12 23:14:35,951 - INFO - Responding with success: HTTP/1.1 500 Internal Server Error
+Content-Type: text/html
+
+<html><body><h1>500 Internal Server Error</h1></body></html>
+2024-02-12 23:14:35,953 - INFO - Connection with ('10.0.0.218', 49379) closed
+2024-02-12 23:14:35,953 - INFO - Ready to serve...
+2024-02-12 23:14:35,953 - INFO - Waiting for connection...
+2024-02-12 23:14:35,954 - ERROR - Sent error response (500 Internal Server Error) to ('10.0.0.218', 49380)
+2024-02-12 23:14:35,954 - INFO - Responding with success: HTTP/1.1 500 Internal Server Error
+Content-Type: text/html
+
+<html><body><h1>500 Internal Server Error</h1></body></html>
+2024-02-12 23:14:35,955 - INFO - Connection with ('10.0.0.218', 49380) closed
+2024-02-12 23:14:35,955 - INFO - Ready to serve...
+2024-02-12 23:14:35,955 - INFO - Waiting for connection...
+2024-02-12 23:17:21,179 - INFO - Server started, listening on 10.0.0.218:8200
+2024-02-12 23:17:21,179 - INFO - Ready to serve...
+2024-02-12 23:17:21,180 - INFO - Waiting for connection...
+2024-02-12 23:17:22,867 - ERROR - Sent error response (500 Internal Server Error) to ('10.0.0.218', 49463)
+2024-02-12 23:17:22,867 - INFO - Responding with success: HTTP/1.1 500 Internal Server Error
+Content-Type: text/html
+
+<html><body><h1>500 Internal Server Error</h1></body></html>
+2024-02-12 23:17:22,867 - INFO - Connection with ('10.0.0.218', 49463) closed
+2024-02-12 23:17:22,868 - INFO - Ready to serve...
+2024-02-12 23:17:22,868 - INFO - Waiting for connection...
+2024-02-12 23:17:26,101 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 49464)
+2024-02-12 23:17:26,101 - INFO - Responding with success: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<html><body><h1>404 Not Found</h1></body></html>
+2024-02-12 23:17:26,102 - INFO - Connection with ('10.0.0.218', 49464) closed
+2024-02-12 23:17:26,102 - INFO - Ready to serve...
+2024-02-12 23:17:26,102 - INFO - Waiting for connection...
+2024-02-12 23:17:26,102 - INFO - Sent normal response to ('10.0.0.218', 49465)
+2024-02-12 23:17:26,102 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><h3>This is a sample HTML.</h3></body></html>
+2024-02-12 23:17:26,103 - INFO - Connection with ('10.0.0.218', 49465) closed
+2024-02-12 23:17:26,103 - INFO - Ready to serve...
+2024-02-12 23:17:26,103 - INFO - Waiting for connection...
+2024-02-12 23:17:26,201 - INFO - Sent normal response to ('10.0.0.218', 49468)
+2024-02-12 23:17:26,201 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><h3>This is a sample HTML.</h3></body></html>
+2024-02-12 23:17:26,201 - INFO - Connection with ('10.0.0.218', 49468) closed
+2024-02-12 23:17:26,201 - INFO - Ready to serve...
+2024-02-12 23:17:26,201 - INFO - Waiting for connection...
+2024-02-12 23:17:26,201 - ERROR - Sent error response (500 Internal Server Error) to ('10.0.0.218', 49469)
+2024-02-12 23:17:26,201 - INFO - Responding with success: HTTP/1.1 500 Internal Server Error
+Content-Type: text/html
+
+<html><body><h1>500 Internal Server Error</h1></body></html>
+2024-02-12 23:17:26,201 - INFO - Connection with ('10.0.0.218', 49469) closed
+2024-02-12 23:17:26,202 - INFO - Ready to serve...
+2024-02-12 23:17:26,202 - INFO - Waiting for connection...
+2024-02-12 23:17:26,754 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 49470)
+2024-02-12 23:17:26,754 - INFO - Responding with success: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<html><body><h1>404 Not Found</h1></body></html>
+2024-02-12 23:17:26,754 - INFO - Connection with ('10.0.0.218', 49470) closed
+2024-02-12 23:17:26,754 - INFO - Ready to serve...
+2024-02-12 23:17:26,755 - INFO - Waiting for connection...
+2024-02-12 23:17:27,483 - INFO - Sent normal response to ('10.0.0.218', 49471)
+2024-02-12 23:17:27,483 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><h3>This is a sample HTML.</h3></body></html>
+2024-02-12 23:17:27,483 - INFO - Connection with ('10.0.0.218', 49471) closed
+2024-02-12 23:17:27,485 - INFO - Ready to serve...
+2024-02-12 23:17:27,485 - INFO - Waiting for connection...
+2024-02-12 23:17:36,224 - INFO - Sent normal response to ('10.0.0.218', 49472)
+2024-02-12 23:17:36,225 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><br><h3>This is a sample HTML.</h3></body></html>
+2024-02-12 23:17:36,225 - INFO - Connection with ('10.0.0.218', 49472) closed
+2024-02-12 23:17:36,225 - INFO - Ready to serve...
+2024-02-12 23:17:36,225 - INFO - Waiting for connection...
+2024-02-12 23:17:36,227 - ERROR - Sent error response (500 Internal Server Error) to ('10.0.0.218', 49473)
+2024-02-12 23:17:36,227 - INFO - Responding with success: HTTP/1.1 500 Internal Server Error
+Content-Type: text/html
+
+<html><body><h1>500 Internal Server Error</h1></body></html>
+2024-02-12 23:17:36,227 - INFO - Connection with ('10.0.0.218', 49473) closed
+2024-02-12 23:17:36,227 - INFO - Ready to serve...
+2024-02-12 23:17:36,227 - INFO - Waiting for connection...
+2024-02-12 23:17:39,684 - INFO - Server started, listening on 10.0.0.218:8200
+2024-02-12 23:17:39,685 - INFO - Ready to serve...
+2024-02-12 23:17:39,685 - INFO - Waiting for connection...
+2024-02-12 23:17:40,777 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 49478)
+2024-02-12 23:17:40,777 - INFO - Responding with success: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<html><body><h1>404 Not Found</h1></body></html>
+2024-02-12 23:17:40,779 - INFO - Connection with ('10.0.0.218', 49478) closed
+2024-02-12 23:17:40,779 - INFO - Ready to serve...
+2024-02-12 23:17:40,779 - INFO - Waiting for connection...
+2024-02-12 23:17:43,498 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 49479)
+2024-02-12 23:17:43,498 - INFO - Responding with success: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<html><body><h1>404 Not Found</h1></body></html>
+2024-02-12 23:17:43,499 - INFO - Connection with ('10.0.0.218', 49479) closed
+2024-02-12 23:17:43,499 - INFO - Ready to serve...
+2024-02-12 23:17:43,499 - INFO - Waiting for connection...
+2024-02-12 23:17:43,499 - ERROR - Sent error response (500 Internal Server Error) to ('10.0.0.218', 49480)
+2024-02-12 23:17:43,499 - INFO - Responding with success: HTTP/1.1 500 Internal Server Error
+Content-Type: text/html
+
+<html><body><h1>500 Internal Server Error</h1></body></html>
+2024-02-12 23:17:43,499 - INFO - Connection with ('10.0.0.218', 49480) closed
+2024-02-12 23:17:43,500 - INFO - Ready to serve...
+2024-02-12 23:17:43,500 - INFO - Waiting for connection...
+2024-02-12 23:17:43,878 - INFO - Sent normal response to ('10.0.0.218', 49482)
+2024-02-12 23:17:43,878 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><h3>This is a sample HTML.</h3></body></html>
+2024-02-12 23:17:43,878 - INFO - Connection with ('10.0.0.218', 49482) closed
+2024-02-12 23:17:43,878 - INFO - Ready to serve...
+2024-02-12 23:17:43,878 - INFO - Waiting for connection...
+2024-02-12 23:17:46,226 - INFO - Sent normal response to ('10.0.0.218', 49483)
+2024-02-12 23:17:46,226 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello, World!</h2><h3>This is a sample HTML.</h3></body></html>
+2024-02-12 23:17:46,226 - INFO - Connection with ('10.0.0.218', 49483) closed
+2024-02-12 23:17:46,226 - INFO - Ready to serve...
+2024-02-12 23:17:46,226 - INFO - Waiting for connection...
+2024-02-12 23:17:46,227 - ERROR - Sent error response (500 Internal Server Error) to ('10.0.0.218', 49484)
+2024-02-12 23:17:46,228 - INFO - Responding with success: HTTP/1.1 500 Internal Server Error
+Content-Type: text/html
+
+<html><body><h1>500 Internal Server Error</h1></body></html>
+2024-02-12 23:17:46,228 - INFO - Connection with ('10.0.0.218', 49484) closed
+2024-02-12 23:17:46,228 - INFO - Ready to serve...
+2024-02-12 23:17:46,228 - INFO - Waiting for connection...
+2024-02-12 23:18:55,713 - INFO - Server started, listening on 10.0.0.218:8200
+2024-02-12 23:18:55,714 - INFO - Ready to serve...
+2024-02-12 23:18:55,714 - INFO - Waiting for connection...
+2024-02-12 23:18:57,054 - INFO - Sent normal response to ('10.0.0.218', 49518)
+2024-02-12 23:18:57,054 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello!</h2><h3>This is a sample HTML.</h3></body></html>
+2024-02-12 23:18:57,055 - INFO - Connection with ('10.0.0.218', 49518) closed
+2024-02-12 23:18:57,055 - INFO - Ready to serve...
+2024-02-12 23:18:57,055 - INFO - Waiting for connection...
+2024-02-12 23:19:00,025 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 49519)
+2024-02-12 23:19:00,025 - INFO - Responding with success: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<html><body><h1>404 Not Found</h1></body></html>
+2024-02-12 23:19:00,025 - INFO - Connection with ('10.0.0.218', 49519) closed
+2024-02-12 23:19:00,025 - INFO - Ready to serve...
+2024-02-12 23:19:00,025 - INFO - Waiting for connection...
+2024-02-12 23:19:00,642 - INFO - Sent normal response to ('10.0.0.218', 49520)
+2024-02-12 23:19:00,642 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello!</h2><h3>This is a sample HTML.</h3></body></html>
+2024-02-12 23:19:00,642 - INFO - Connection with ('10.0.0.218', 49520) closed
+2024-02-12 23:19:00,642 - INFO - Ready to serve...
+2024-02-12 23:19:00,643 - INFO - Waiting for connection...
+2024-02-12 23:19:01,143 - INFO - Sent normal response to ('10.0.0.218', 49522)
+2024-02-12 23:19:01,143 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello!</h2><h3>This is a sample HTML.</h3></body></html>
+2024-02-12 23:19:01,143 - INFO - Connection with ('10.0.0.218', 49522) closed
+2024-02-12 23:19:01,143 - INFO - Ready to serve...
+2024-02-12 23:19:01,144 - INFO - Waiting for connection...
+2024-02-12 23:19:01,648 - INFO - Sent normal response to ('10.0.0.218', 49523)
+2024-02-12 23:19:01,649 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello!</h2><h3>This is a sample HTML.</h3></body></html>
+2024-02-12 23:19:01,649 - INFO - Connection with ('10.0.0.218', 49523) closed
+2024-02-12 23:19:01,649 - INFO - Ready to serve...
+2024-02-12 23:19:01,650 - INFO - Waiting for connection...
+2024-02-12 23:19:02,225 - INFO - Sent normal response to ('10.0.0.218', 49525)
+2024-02-12 23:19:02,226 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello!</h2><h3>This is a sample HTML.</h3></body></html>
+2024-02-12 23:19:02,226 - INFO - Connection with ('10.0.0.218', 49525) closed
+2024-02-12 23:19:02,226 - INFO - Ready to serve...
+2024-02-12 23:19:02,226 - INFO - Waiting for connection...
+2024-02-12 23:19:02,678 - INFO - Sent normal response to ('10.0.0.218', 49526)
+2024-02-12 23:19:02,678 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello!</h2><h3>This is a sample HTML.</h3></body></html>
+2024-02-12 23:19:02,678 - INFO - Connection with ('10.0.0.218', 49526) closed
+2024-02-12 23:19:02,678 - INFO - Ready to serve...
+2024-02-12 23:19:02,678 - INFO - Waiting for connection...
+2024-02-12 23:19:03,045 - ERROR - Sent error response (500 Internal Server Error) to ('10.0.0.218', 49527)
+2024-02-12 23:19:03,047 - INFO - Responding with success: HTTP/1.1 500 Internal Server Error
+Content-Type: text/html
+
+<html><body><h1>500 Internal Server Error</h1></body></html>
+2024-02-12 23:19:03,047 - INFO - Connection with ('10.0.0.218', 49527) closed
+2024-02-12 23:19:03,047 - INFO - Ready to serve...
+2024-02-12 23:19:03,047 - INFO - Waiting for connection...
+2024-02-12 23:19:03,941 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 49528)
+2024-02-12 23:19:03,941 - INFO - Responding with success: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<html><body><h1>404 Not Found</h1></body></html>
+2024-02-12 23:19:03,941 - INFO - Connection with ('10.0.0.218', 49528) closed
+2024-02-12 23:19:03,942 - INFO - Ready to serve...
+2024-02-12 23:19:03,942 - INFO - Waiting for connection...
+2024-02-12 23:19:04,536 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 49529)
+2024-02-12 23:19:04,536 - INFO - Responding with success: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<html><body><h1>404 Not Found</h1></body></html>
+2024-02-12 23:19:04,537 - INFO - Connection with ('10.0.0.218', 49529) closed
+2024-02-12 23:19:04,537 - INFO - Ready to serve...
+2024-02-12 23:19:04,537 - INFO - Waiting for connection...
+2024-02-12 23:19:05,216 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 49530)
+2024-02-12 23:19:05,216 - INFO - Responding with success: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<html><body><h1>404 Not Found</h1></body></html>
+2024-02-12 23:19:05,216 - INFO - Connection with ('10.0.0.218', 49530) closed
+2024-02-12 23:19:05,216 - INFO - Ready to serve...
+2024-02-12 23:19:05,216 - INFO - Waiting for connection...
+2024-02-12 23:19:05,663 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 49532)
+2024-02-12 23:19:05,663 - INFO - Responding with success: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<html><body><h1>404 Not Found</h1></body></html>
+2024-02-12 23:19:05,663 - INFO - Connection with ('10.0.0.218', 49532) closed
+2024-02-12 23:19:05,663 - INFO - Ready to serve...
+2024-02-12 23:19:05,664 - INFO - Waiting for connection...
+2024-02-12 23:19:06,046 - INFO - Sent normal response to ('10.0.0.218', 49533)
+2024-02-12 23:19:06,046 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello!</h2><h3>This is a sample HTML.</h3></body></html>
+2024-02-12 23:19:06,046 - INFO - Connection with ('10.0.0.218', 49533) closed
+2024-02-12 23:19:06,046 - INFO - Ready to serve...
+2024-02-12 23:19:06,046 - INFO - Waiting for connection...
+2024-02-12 23:19:06,264 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 49534)
+2024-02-12 23:19:06,265 - INFO - Responding with success: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<html><body><h1>404 Not Found</h1></body></html>
+2024-02-12 23:19:06,265 - INFO - Connection with ('10.0.0.218', 49534) closed
+2024-02-12 23:19:06,265 - INFO - Ready to serve...
+2024-02-12 23:19:06,265 - INFO - Waiting for connection...
+2024-02-12 23:19:06,369 - ERROR - Sent error response (500 Internal Server Error) to ('10.0.0.218', 49535)
+2024-02-12 23:19:06,369 - INFO - Responding with success: HTTP/1.1 500 Internal Server Error
+Content-Type: text/html
+
+<html><body><h1>500 Internal Server Error</h1></body></html>
+2024-02-12 23:19:06,369 - INFO - Connection with ('10.0.0.218', 49535) closed
+2024-02-12 23:19:06,369 - INFO - Ready to serve...
+2024-02-12 23:19:06,369 - INFO - Waiting for connection...
+2024-02-12 23:19:06,369 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 49536)
+2024-02-12 23:19:06,369 - INFO - Responding with success: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<html><body><h1>404 Not Found</h1></body></html>
+2024-02-12 23:19:06,369 - INFO - Connection with ('10.0.0.218', 49536) closed
+2024-02-12 23:19:06,369 - INFO - Ready to serve...
+2024-02-12 23:19:06,369 - INFO - Waiting for connection...
+2024-02-12 23:19:06,746 - ERROR - Sent error response (500 Internal Server Error) to ('10.0.0.218', 49537)
+2024-02-12 23:19:06,746 - INFO - Responding with success: HTTP/1.1 500 Internal Server Error
+Content-Type: text/html
+
+<html><body><h1>500 Internal Server Error</h1></body></html>
+2024-02-12 23:19:06,746 - INFO - Connection with ('10.0.0.218', 49537) closed
+2024-02-12 23:19:06,746 - INFO - Ready to serve...
+2024-02-12 23:19:06,746 - INFO - Waiting for connection...
+2024-02-12 23:19:07,000 - INFO - Sent normal response to ('10.0.0.218', 49538)
+2024-02-12 23:19:07,000 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello!</h2><h3>This is a sample HTML.</h3></body></html>
+2024-02-12 23:19:07,001 - INFO - Connection with ('10.0.0.218', 49538) closed
+2024-02-12 23:19:07,001 - INFO - Ready to serve...
+2024-02-12 23:19:07,001 - INFO - Waiting for connection...
+2024-02-12 23:19:07,871 - ERROR - Sent error response (500 Internal Server Error) to ('10.0.0.218', 49539)
+2024-02-12 23:19:07,871 - INFO - Responding with success: HTTP/1.1 500 Internal Server Error
+Content-Type: text/html
+
+<html><body><h1>500 Internal Server Error</h1></body></html>
+2024-02-12 23:19:07,872 - INFO - Connection with ('10.0.0.218', 49539) closed
+2024-02-12 23:19:07,872 - INFO - Ready to serve...
+2024-02-12 23:19:07,872 - INFO - Waiting for connection...
+2024-02-12 23:19:16,376 - ERROR - Sent error response (500 Internal Server Error) to ('10.0.0.218', 49541)
+2024-02-12 23:19:16,377 - INFO - Responding with success: HTTP/1.1 500 Internal Server Error
+Content-Type: text/html
+
+<html><body><h1>500 Internal Server Error</h1></body></html>
+2024-02-12 23:19:16,377 - INFO - Connection with ('10.0.0.218', 49541) closed
+2024-02-12 23:19:16,377 - INFO - Ready to serve...
+2024-02-12 23:19:16,377 - INFO - Waiting for connection...
+2024-02-12 23:19:16,377 - INFO - Sent normal response to ('10.0.0.218', 49542)
+2024-02-12 23:19:16,377 - INFO - Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html><body><h2>Hello!</h2><h3>This is a sample HTML.</h3></body></html>
+2024-02-12 23:19:16,377 - INFO - Connection with ('10.0.0.218', 49542) closed
+2024-02-12 23:19:16,377 - INFO - Ready to serve...
+2024-02-12 23:19:16,377 - INFO - Waiting for connection...

@@ -1,0 +1,942 @@
+2024-02-12 20:42:24,247 INFO Server listening on port 8001
+2024-02-12 20:44:05,184 INFO Server listening on port 8001
+2024-02-12 20:44:05,223 INFO Client connected from ('127.0.0.1', 61671)
+2024-02-12 20:44:05,223 INFO Client connected from ('127.0.0.1', 61671)
+2024-02-12 20:44:05,953 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:05,954 INFO Responding with error: HTTP/1.1 500 Something went wrong
+Content-Type: text/html
+
+<h1>Error 500: Something went wrong</h1>
+2024-02-12 20:44:05,955 INFO Client disconnected
+2024-02-12 20:44:05,955 INFO Client connected from ('127.0.0.1', 61672)
+2024-02-12 20:44:05,955 INFO Client connected from ('127.0.0.1', 61672)
+2024-02-12 20:44:06,117 INFO Received request:
+GET /favicon.ico HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8001/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:06,117 INFO Responding with error: HTTP/1.1 500 Something went wrong
+Content-Type: text/html
+
+<h1>Error 500: Something went wrong</h1>
+2024-02-12 20:44:06,119 INFO Client disconnected
+2024-02-12 20:44:06,269 INFO Client connected from ('127.0.0.1', 61674)
+2024-02-12 20:44:06,270 INFO Client connected from ('127.0.0.1', 61674)
+2024-02-12 20:44:10,310 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:10,310 INFO File not found or inaccessible: 
+2024-02-12 20:44:10,310 INFO Client disconnected
+2024-02-12 20:44:10,642 INFO Client connected from ('127.0.0.1', 61681)
+2024-02-12 20:44:10,643 INFO Client connected from ('127.0.0.1', 61681)
+2024-02-12 20:44:10,644 INFO Received request:
+GET /favicon.ico HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8001/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:10,644 INFO File not found or inaccessible: favicon.ico
+2024-02-12 20:44:10,645 INFO Client disconnected
+2024-02-12 20:44:10,646 INFO Client connected from ('127.0.0.1', 61682)
+2024-02-12 20:44:10,646 INFO Client connected from ('127.0.0.1', 61682)
+2024-02-12 20:44:11,383 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:11,384 INFO File not found or inaccessible: 
+2024-02-12 20:44:11,384 INFO Client disconnected
+2024-02-12 20:44:11,384 INFO Client connected from ('127.0.0.1', 61683)
+2024-02-12 20:44:11,384 INFO Client connected from ('127.0.0.1', 61683)
+2024-02-12 20:44:11,607 INFO Received request:
+
+2024-02-12 20:44:24,223 INFO Server listening on port 8001
+2024-02-12 20:44:25,957 INFO Client connected from ('127.0.0.1', 61708)
+2024-02-12 20:44:25,957 INFO Client connected from ('127.0.0.1', 61708)
+2024-02-12 20:44:25,958 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:25,958 INFO Responding with error: HTTP/1.1 500 Something went wrong
+Content-Type: text/html
+
+<h1>Error 500: Something went wrong</h1>
+2024-02-12 20:44:25,958 INFO Client disconnected
+2024-02-12 20:44:25,968 INFO Client connected from ('127.0.0.1', 61709)
+2024-02-12 20:44:25,968 INFO Client connected from ('127.0.0.1', 61709)
+2024-02-12 20:44:27,556 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:27,556 INFO File not found or inaccessible: 
+2024-02-12 20:44:27,556 INFO Client disconnected
+2024-02-12 20:44:27,557 INFO Client connected from ('127.0.0.1', 61710)
+2024-02-12 20:44:27,557 INFO Client connected from ('127.0.0.1', 61710)
+2024-02-12 20:44:28,412 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:28,412 INFO Responding with error: HTTP/1.1 500 Something went wrong
+Content-Type: text/html
+
+<h1>Error 500: Something went wrong</h1>
+2024-02-12 20:44:28,412 INFO Client disconnected
+2024-02-12 20:44:28,730 INFO Client connected from ('127.0.0.1', 61713)
+2024-02-12 20:44:28,730 INFO Client connected from ('127.0.0.1', 61713)
+2024-02-12 20:44:29,018 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:29,019 INFO File not found or inaccessible: 
+2024-02-12 20:44:29,019 INFO Client disconnected
+2024-02-12 20:44:29,019 INFO Client connected from ('127.0.0.1', 61714)
+2024-02-12 20:44:29,019 INFO Client connected from ('127.0.0.1', 61714)
+2024-02-12 20:44:29,225 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:29,225 INFO File not found or inaccessible: 
+2024-02-12 20:44:29,227 INFO Client disconnected
+2024-02-12 20:44:29,339 INFO Client connected from ('127.0.0.1', 61717)
+2024-02-12 20:44:29,339 INFO Client connected from ('127.0.0.1', 61717)
+2024-02-12 20:44:29,402 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:29,402 INFO Responding with error: HTTP/1.1 500 Something went wrong
+Content-Type: text/html
+
+<h1>Error 500: Something went wrong</h1>
+2024-02-12 20:44:29,403 INFO Client disconnected
+2024-02-12 20:44:29,719 INFO Client connected from ('127.0.0.1', 61721)
+2024-02-12 20:44:29,720 INFO Client connected from ('127.0.0.1', 61721)
+2024-02-12 20:44:29,721 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:29,721 INFO Responding with error: HTTP/1.1 500 Something went wrong
+Content-Type: text/html
+
+<h1>Error 500: Something went wrong</h1>
+2024-02-12 20:44:29,723 INFO Client disconnected
+2024-02-12 20:44:29,723 INFO Client connected from ('127.0.0.1', 61722)
+2024-02-12 20:44:29,723 INFO Client connected from ('127.0.0.1', 61722)
+2024-02-12 20:44:29,783 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:29,783 INFO Responding with error: HTTP/1.1 500 Something went wrong
+Content-Type: text/html
+
+<h1>Error 500: Something went wrong</h1>
+2024-02-12 20:44:29,784 INFO Client disconnected
+2024-02-12 20:44:29,981 INFO Client connected from ('127.0.0.1', 61724)
+2024-02-12 20:44:29,981 INFO Client connected from ('127.0.0.1', 61724)
+2024-02-12 20:44:29,981 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:29,981 INFO Responding with error: HTTP/1.1 500 Something went wrong
+Content-Type: text/html
+
+<h1>Error 500: Something went wrong</h1>
+2024-02-12 20:44:29,981 INFO Client disconnected
+2024-02-12 20:44:30,106 INFO Client connected from ('127.0.0.1', 61725)
+2024-02-12 20:44:30,106 INFO Client connected from ('127.0.0.1', 61725)
+2024-02-12 20:44:30,151 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:30,151 INFO Responding with error: HTTP/1.1 500 Something went wrong
+Content-Type: text/html
+
+<h1>Error 500: Something went wrong</h1>
+2024-02-12 20:44:30,152 INFO Client disconnected
+2024-02-12 20:44:30,464 INFO Client connected from ('127.0.0.1', 61729)
+2024-02-12 20:44:30,466 INFO Client connected from ('127.0.0.1', 61729)
+2024-02-12 20:44:30,510 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:30,511 INFO File not found or inaccessible: 
+2024-02-12 20:44:30,511 INFO Client disconnected
+2024-02-12 20:44:30,511 INFO Client connected from ('127.0.0.1', 61730)
+2024-02-12 20:44:30,512 INFO Client connected from ('127.0.0.1', 61730)
+2024-02-12 20:44:30,922 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:30,922 INFO File not found or inaccessible: 
+2024-02-12 20:44:30,923 INFO Client disconnected
+2024-02-12 20:44:30,923 INFO Client connected from ('127.0.0.1', 61732)
+2024-02-12 20:44:30,923 INFO Client connected from ('127.0.0.1', 61732)
+2024-02-12 20:44:31,489 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:31,491 INFO Responding with error: HTTP/1.1 500 Something went wrong
+Content-Type: text/html
+
+<h1>Error 500: Something went wrong</h1>
+2024-02-12 20:44:31,491 INFO Client disconnected
+2024-02-12 20:44:31,798 INFO Client connected from ('127.0.0.1', 61734)
+2024-02-12 20:44:31,798 INFO Client connected from ('127.0.0.1', 61734)
+2024-02-12 20:44:32,391 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:32,391 INFO File not found or inaccessible: 
+2024-02-12 20:44:32,391 INFO Client disconnected
+2024-02-12 20:44:32,705 INFO Client connected from ('127.0.0.1', 61738)
+2024-02-12 20:44:32,705 INFO Client connected from ('127.0.0.1', 61738)
+2024-02-12 20:44:33,010 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:33,010 INFO Responding with error: HTTP/1.1 500 Something went wrong
+Content-Type: text/html
+
+<h1>Error 500: Something went wrong</h1>
+2024-02-12 20:44:33,011 INFO Client disconnected
+2024-02-12 20:44:33,332 INFO Client connected from ('127.0.0.1', 61742)
+2024-02-12 20:44:33,332 INFO Client connected from ('127.0.0.1', 61742)
+2024-02-12 20:44:33,586 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:33,586 INFO File not found or inaccessible: 
+2024-02-12 20:44:33,586 INFO Client disconnected
+2024-02-12 20:44:33,588 INFO Client connected from ('127.0.0.1', 61743)
+2024-02-12 20:44:33,588 INFO Client connected from ('127.0.0.1', 61743)
+2024-02-12 20:44:34,202 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:34,202 INFO File not found or inaccessible: 
+2024-02-12 20:44:34,202 INFO Client disconnected
+2024-02-12 20:44:34,519 INFO Client connected from ('127.0.0.1', 61745)
+2024-02-12 20:44:34,519 INFO Client connected from ('127.0.0.1', 61745)
+2024-02-12 20:44:34,831 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:34,831 INFO Responding with error: HTTP/1.1 500 Something went wrong
+Content-Type: text/html
+
+<h1>Error 500: Something went wrong</h1>
+2024-02-12 20:44:34,832 INFO Client disconnected
+2024-02-12 20:44:35,146 INFO Client connected from ('127.0.0.1', 61748)
+2024-02-12 20:44:35,147 INFO Client connected from ('127.0.0.1', 61748)
+2024-02-12 20:44:41,637 INFO Received request:
+
+2024-02-12 20:44:47,282 INFO Server listening on port 8001
+2024-02-12 20:44:47,830 INFO Client connected from ('127.0.0.1', 61763)
+2024-02-12 20:44:47,831 INFO Client connected from ('127.0.0.1', 61763)
+2024-02-12 20:44:47,831 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:47,831 INFO File not found or inaccessible: 
+2024-02-12 20:44:47,833 INFO Client disconnected
+2024-02-12 20:44:47,833 INFO Client connected from ('127.0.0.1', 61764)
+2024-02-12 20:44:47,833 INFO Client connected from ('127.0.0.1', 61764)
+2024-02-12 20:44:49,451 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:49,452 INFO Responding with error: HTTP/1.1 500 Something went wrong
+Content-Type: text/html
+
+<h1>Error 500: Something went wrong</h1>
+2024-02-12 20:44:49,452 INFO Client disconnected
+2024-02-12 20:44:49,452 INFO Client connected from ('127.0.0.1', 61765)
+2024-02-12 20:44:49,452 INFO Client connected from ('127.0.0.1', 61765)
+2024-02-12 20:44:50,067 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:50,067 INFO File not found or inaccessible: 
+2024-02-12 20:44:50,067 INFO Client disconnected
+2024-02-12 20:44:50,378 INFO Client connected from ('127.0.0.1', 61767)
+2024-02-12 20:44:50,379 INFO Client connected from ('127.0.0.1', 61767)
+2024-02-12 20:44:50,486 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:50,486 INFO Responding with error: HTTP/1.1 500 Something went wrong
+Content-Type: text/html
+
+<h1>Error 500: Something went wrong</h1>
+2024-02-12 20:44:50,487 INFO Client disconnected
+2024-02-12 20:44:50,801 INFO Client connected from ('127.0.0.1', 61771)
+2024-02-12 20:44:50,801 INFO Client connected from ('127.0.0.1', 61771)
+2024-02-12 20:44:50,801 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:50,802 INFO Responding with error: HTTP/1.1 500 Something went wrong
+Content-Type: text/html
+
+<h1>Error 500: Something went wrong</h1>
+2024-02-12 20:44:50,803 INFO Client disconnected
+2024-02-12 20:44:51,003 INFO Client connected from ('127.0.0.1', 61773)
+2024-02-12 20:44:51,003 INFO Client connected from ('127.0.0.1', 61773)
+2024-02-12 20:44:51,004 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:51,004 INFO File not found or inaccessible: 
+2024-02-12 20:44:51,004 INFO Client disconnected
+2024-02-12 20:44:51,161 INFO Client connected from ('127.0.0.1', 61774)
+2024-02-12 20:44:51,162 INFO Client connected from ('127.0.0.1', 61774)
+2024-02-12 20:44:51,196 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:51,196 INFO File not found or inaccessible: 
+2024-02-12 20:44:51,196 INFO Client disconnected
+2024-02-12 20:44:51,507 INFO Client connected from ('127.0.0.1', 61778)
+2024-02-12 20:44:51,508 INFO Client connected from ('127.0.0.1', 61778)
+2024-02-12 20:44:51,509 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:44:51,510 INFO File not found or inaccessible: 
+2024-02-12 20:44:51,511 INFO Client disconnected
+2024-02-12 20:44:51,512 INFO Client connected from ('127.0.0.1', 61779)
+2024-02-12 20:44:51,512 INFO Client connected from ('127.0.0.1', 61779)
+2024-02-12 20:44:51,646 INFO Received request:
+
+2024-02-12 20:45:00,750 INFO Server listening on port 8001
+2024-02-12 20:45:05,256 INFO Client connected from ('127.0.0.1', 61792)
+2024-02-12 20:45:05,256 INFO Client connected from ('127.0.0.1', 61792)
+2024-02-12 20:45:05,257 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:45:05,257 INFO Responding with error: HTTP/1.1 500 Something went wrong
+Content-Type: text/html
+
+<h1>Error 500: Something went wrong</h1>
+2024-02-12 20:45:05,258 INFO Client disconnected
+2024-02-12 20:45:05,261 INFO Client connected from ('127.0.0.1', 61793)
+2024-02-12 20:45:05,262 INFO Client connected from ('127.0.0.1', 61793)
+2024-02-12 20:45:11,992 INFO Server listening on port 8001
+2024-02-12 20:45:18,041 INFO Client connected from ('127.0.0.1', 61807)
+2024-02-12 20:45:18,043 INFO Client connected from ('127.0.0.1', 61807)
+2024-02-12 20:45:18,043 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+2024-02-12 20:45:18,043 INFO File not found or inaccessible: 
+2024-02-12 20:45:18,043 INFO Client disconnected
+2024-02-12 20:45:18,052 INFO Client connected from ('127.0.0.1', 61808)
+2024-02-12 20:45:18,053 INFO Client connected from ('127.0.0.1', 61808)
+2024-02-12 20:45:21,690 INFO Received request:
+
+2024-02-12 20:46:24,751 INFO Server listening on port 8001
+2024-02-12 22:00:22,490 INFO Client connected from ('127.0.0.1', 63121)
+2024-02-12 22:00:22,498 INFO Client connected from ('127.0.0.1', 63121)
+2024-02-12 22:01:03,192 INFO Received request:
+
+2024-02-12 22:49:27,950 - INFO - Server started, listening on 10.0.0.218:8200
+2024-02-12 22:49:27,951 - INFO - Ready to serve...
+2024-02-12 22:50:27,968 - INFO - Server shutdown initiated
+2024-02-12 22:50:27,968 - INFO - Server shut down
+2024-02-12 22:52:55,238 - INFO - Server started, listening on 10.0.0.218:8200
+2024-02-12 22:52:55,238 - INFO - Use the URL to connect to server: http://10.0.0.218:8200
+2024-02-12 22:52:55,238 - INFO - Ready to serve...
+2024-02-12 22:52:55,238 - INFO - Waiting for connection...
+2024-02-12 22:53:00,393 - INFO - Server started, listening on 10.0.0.218:8200
+2024-02-12 22:53:00,393 - INFO - Use the URL to connect to server: http://10.0.0.218:8200
+2024-02-12 22:53:00,394 - INFO - Ready to serve...
+2024-02-12 22:53:00,394 - INFO - Waiting for connection...
+2024-02-12 22:57:04,162 - INFO - Sent normal response to ('10.0.0.218', 65059)
+2024-02-12 22:57:04,162 - INFO - Connection with ('10.0.0.218', 65059) closed
+2024-02-12 22:57:04,162 - INFO - Ready to serve...
+2024-02-12 22:57:04,162 - INFO - Waiting for connection...
+2024-02-12 22:57:04,249 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 65060)
+2024-02-12 22:57:04,249 - INFO - Connection with ('10.0.0.218', 65060) closed
+2024-02-12 22:57:04,249 - INFO - Ready to serve...
+2024-02-12 22:57:04,249 - INFO - Waiting for connection...
+2024-02-12 22:57:04,249 - INFO - Sent normal response to ('10.0.0.218', 65061)
+2024-02-12 22:57:04,249 - INFO - Connection with ('10.0.0.218', 65061) closed
+2024-02-12 22:57:04,249 - INFO - Ready to serve...
+2024-02-12 22:57:04,249 - INFO - Waiting for connection...
+2024-02-12 22:57:05,070 - INFO - Sent normal response to ('10.0.0.218', 65062)
+2024-02-12 22:57:05,070 - INFO - Connection with ('10.0.0.218', 65062) closed
+2024-02-12 22:57:05,070 - INFO - Ready to serve...
+2024-02-12 22:57:05,070 - INFO - Waiting for connection...
+2024-02-12 22:57:05,897 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 65063)
+2024-02-12 22:57:05,898 - INFO - Connection with ('10.0.0.218', 65063) closed
+2024-02-12 22:57:05,898 - INFO - Ready to serve...
+2024-02-12 22:57:05,898 - INFO - Waiting for connection...
+2024-02-12 22:57:06,642 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 65064)
+2024-02-12 22:57:06,642 - INFO - Connection with ('10.0.0.218', 65064) closed
+2024-02-12 22:57:06,642 - INFO - Ready to serve...
+2024-02-12 22:57:06,642 - INFO - Waiting for connection...
+2024-02-12 22:57:07,117 - INFO - Sent normal response to ('10.0.0.218', 65066)
+2024-02-12 22:57:07,117 - INFO - Connection with ('10.0.0.218', 65066) closed
+2024-02-12 22:57:07,117 - INFO - Ready to serve...
+2024-02-12 22:57:07,117 - INFO - Waiting for connection...
+2024-02-12 22:57:08,016 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 65067)
+2024-02-12 22:57:08,016 - INFO - Connection with ('10.0.0.218', 65067) closed
+2024-02-12 22:57:08,016 - INFO - Ready to serve...
+2024-02-12 22:57:08,016 - INFO - Waiting for connection...
+2024-02-12 22:57:08,375 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 65068)
+2024-02-12 22:57:08,376 - INFO - Connection with ('10.0.0.218', 65068) closed
+2024-02-12 22:57:08,376 - INFO - Ready to serve...
+2024-02-12 22:57:08,376 - INFO - Waiting for connection...
+2024-02-12 22:57:08,683 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 65069)
+2024-02-12 22:57:08,683 - INFO - Connection with ('10.0.0.218', 65069) closed
+2024-02-12 22:57:08,683 - INFO - Ready to serve...
+2024-02-12 22:57:08,683 - INFO - Waiting for connection...
+2024-02-12 22:57:08,845 - INFO - Sent normal response to ('10.0.0.218', 65070)
+2024-02-12 22:57:08,845 - INFO - Connection with ('10.0.0.218', 65070) closed
+2024-02-12 22:57:08,845 - INFO - Ready to serve...
+2024-02-12 22:57:08,845 - INFO - Waiting for connection...
+2024-02-12 22:57:14,262 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 65071)
+2024-02-12 22:57:14,262 - INFO - Connection with ('10.0.0.218', 65071) closed
+2024-02-12 22:57:14,262 - INFO - Ready to serve...
+2024-02-12 22:57:14,262 - INFO - Waiting for connection...
+2024-02-12 23:03:09,396 - INFO - Use the URL to connect to server: http://10.0.0.218:8200
+2024-02-12 23:03:09,397 - INFO - Ready to serve...
+2024-02-12 23:03:09,397 - INFO - Waiting for connection...
+2024-02-12 23:03:36,875 - INFO - Server started, listening on 10.0.0.218:8200
+2024-02-12 23:03:36,875 - INFO - Ready to serve...
+2024-02-12 23:03:36,875 - INFO - Waiting for connection...
+2024-02-12 23:03:38,374 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 65251)
+2024-02-12 23:03:38,374 - INFO - Connection with ('10.0.0.218', 65251) closed
+2024-02-12 23:03:38,374 - INFO - Ready to serve...
+2024-02-12 23:03:38,374 - INFO - Waiting for connection...
+2024-02-12 23:03:44,837 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 65252)
+2024-02-12 23:03:44,837 - INFO - Connection with ('10.0.0.218', 65252) closed
+2024-02-12 23:03:44,837 - INFO - Ready to serve...
+2024-02-12 23:03:44,837 - INFO - Waiting for connection...
+2024-02-12 23:03:44,839 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 65253)
+2024-02-12 23:03:44,839 - INFO - Connection with ('10.0.0.218', 65253) closed
+2024-02-12 23:03:44,839 - INFO - Ready to serve...
+2024-02-12 23:03:44,839 - INFO - Waiting for connection...
+2024-02-12 23:03:45,336 - INFO - Sent normal response to ('10.0.0.218', 65257)
+2024-02-12 23:03:45,336 - INFO - Connection with ('10.0.0.218', 65257) closed
+2024-02-12 23:03:45,336 - INFO - Ready to serve...
+2024-02-12 23:03:45,336 - INFO - Waiting for connection...
+2024-02-12 23:03:46,063 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 65255)
+2024-02-12 23:03:46,063 - INFO - Connection with ('10.0.0.218', 65255) closed
+2024-02-12 23:03:46,064 - INFO - Ready to serve...
+2024-02-12 23:03:46,064 - INFO - Waiting for connection...
+2024-02-12 23:03:46,447 - INFO - Sent normal response to ('10.0.0.218', 65258)
+2024-02-12 23:03:46,447 - INFO - Connection with ('10.0.0.218', 65258) closed
+2024-02-12 23:03:46,447 - INFO - Ready to serve...
+2024-02-12 23:03:46,448 - INFO - Waiting for connection...
+2024-02-12 23:03:46,736 - INFO - Sent normal response to ('10.0.0.218', 65259)
+2024-02-12 23:03:46,736 - INFO - Connection with ('10.0.0.218', 65259) closed
+2024-02-12 23:03:46,737 - INFO - Ready to serve...
+2024-02-12 23:03:46,737 - INFO - Waiting for connection...
+2024-02-12 23:03:47,046 - INFO - Sent normal response to ('10.0.0.218', 65260)
+2024-02-12 23:03:47,047 - INFO - Connection with ('10.0.0.218', 65260) closed
+2024-02-12 23:03:47,047 - INFO - Ready to serve...
+2024-02-12 23:03:47,047 - INFO - Waiting for connection...
+2024-02-12 23:03:47,245 - ERROR - Sent error response (404 Not Found) to ('10.0.0.218', 65261)
+2024-02-12 23:03:47,246 - INFO - Connection with ('10.0.0.218', 65261) closed
+2024-02-12 23:03:47,246 - INFO - Ready to serve...
+2024-02-12 23:03:47,246 - INFO - Waiting for connection...
+2024-02-12 23:03:54,884 - INFO - Sent normal response to ('10.0.0.218', 65263)
+2024-02-12 23:03:54,884 - INFO - Connection with ('10.0.0.218', 65263) closed
+2024-02-12 23:03:54,885 - INFO - Ready to serve...
+2024-02-12 23:03:54,885 - INFO - Waiting for connection...
+2024-02-12 23:03:54,885 - INFO - Sent normal response to ('10.0.0.218', 65264)
+2024-02-12 23:03:54,885 - INFO - Connection with ('10.0.0.218', 65264) closed
+2024-02-12 23:03:54,885 - INFO - Ready to serve...
+2024-02-12 23:03:54,885 - INFO - Waiting for connection...
+2024-02-12 23:04:22,140 - INFO - Server shutdown initiated
+2024-02-12 23:04:22,140 - INFO - Server shut down

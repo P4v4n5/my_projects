@@ -1,0 +1,5 @@
+2024-02-18 16:53:41,963 | bind_to_local | line 50 | INFO | 10.0.0.218 accepting datagram at port 60258
+2024-02-18 16:53:52,328 | tcp_user1_connection | line 28 | INFO | Connection from: ('10.0.0.198', 52218)
+2024-02-18 16:53:52,329 | tcp_user1_connection | line 39 | INFO | Shared Public Key : 36
+2024-02-18 16:53:52,330 | tcp_user1_connection | line 40 | INFO | Received Public Key : 36
+2024-02-18 16:53:52,330 | tcp_user1_connection | line 41 | INFO | Shared Secret: 97

@@ -1,0 +1,1256 @@
+12-Feb-24 22:00:06  INFO ==========================================================
+12-Feb-24 22:00:06  INFO Web server is listening at localhost:24068.
+12-Feb-24 22:00:22  INFO A new client - ('127.0.0.1', 63119) has connected to the server.
+12-Feb-24 22:00:22  INFO New request received from ('127.0.0.1', 63119):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:22  INFO Response being sent back:>
+HTTP/1.1 404 Not Found
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Page Not Found!</h1>
+    <h2>The page you requested was not found. Kindly validate the URL entered.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:22  INFO ==========================================================
+12-Feb-24 22:00:22  INFO A new client - ('127.0.0.1', 63120) has connected to the server.
+12-Feb-24 22:00:22  INFO New request received from ('127.0.0.1', 63120):>
+GET /favicon.ico HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:24068/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:22  INFO Response being sent back:>
+HTTP/1.1 200 OK
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>This is a sample HTML file!</h1>
+    <h2>It will be used to serve a very basic HTTP GET request.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:22  INFO ==========================================================
+12-Feb-24 22:00:22  INFO A new client - ('127.0.0.1', 63122) has connected to the server.
+12-Feb-24 22:00:28  INFO New request received from ('127.0.0.1', 63122):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:28  INFO Response being sent back:>
+HTTP/1.1 404 Not Found
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Page Not Found!</h1>
+    <h2>The page you requested was not found. Kindly validate the URL entered.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:28  INFO ==========================================================
+12-Feb-24 22:00:29  INFO A new client - ('127.0.0.1', 63127) has connected to the server.
+12-Feb-24 22:00:29  INFO New request received from ('127.0.0.1', 63127):>
+GET /favicon.ico HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:24068/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:29  INFO Response being sent back:>
+HTTP/1.1 200 OK
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>This is a sample HTML file!</h1>
+    <h2>It will be used to serve a very basic HTTP GET request.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:29  INFO ==========================================================
+12-Feb-24 22:00:30  INFO A new client - ('127.0.0.1', 63132) has connected to the server.
+12-Feb-24 22:00:30  INFO New request received from ('127.0.0.1', 63132):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:30  INFO Response being sent back:>
+HTTP/1.1 404 Not Found
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Page Not Found!</h1>
+    <h2>The page you requested was not found. Kindly validate the URL entered.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:30  INFO ==========================================================
+12-Feb-24 22:00:30  INFO A new client - ('127.0.0.1', 63133) has connected to the server.
+12-Feb-24 22:00:30  INFO New request received from ('127.0.0.1', 63133):>
+GET /favicon.ico HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:24068/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:30  INFO Response being sent back:>
+HTTP/1.1 404 Not Found
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Page Not Found!</h1>
+    <h2>The page you requested was not found. Kindly validate the URL entered.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:30  INFO ==========================================================
+12-Feb-24 22:00:30  INFO A new client - ('127.0.0.1', 63134) has connected to the server.
+12-Feb-24 22:00:31  INFO New request received from ('127.0.0.1', 63134):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:31  INFO Response being sent back:>
+HTTP/1.1 200 OK
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>This is a sample HTML file!</h1>
+    <h2>It will be used to serve a very basic HTTP GET request.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:31  INFO ==========================================================
+12-Feb-24 22:00:31  INFO A new client - ('127.0.0.1', 63137) has connected to the server.
+12-Feb-24 22:00:38  INFO New request received from ('127.0.0.1', 63137):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:38  INFO Response being sent back:>
+HTTP/1.1 200 OK
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>This is a sample HTML file!</h1>
+    <h2>It will be used to serve a very basic HTTP GET request.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:38  INFO ==========================================================
+12-Feb-24 22:00:38  INFO A new client - ('127.0.0.1', 63138) has connected to the server.
+12-Feb-24 22:00:39  INFO New request received from ('127.0.0.1', 63138):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:39  INFO Response being sent back:>
+HTTP/1.1 404 Not Found
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Page Not Found!</h1>
+    <h2>The page you requested was not found. Kindly validate the URL entered.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:39  INFO ==========================================================
+12-Feb-24 22:00:39  INFO A new client - ('127.0.0.1', 63142) has connected to the server.
+12-Feb-24 22:00:40  INFO New request received from ('127.0.0.1', 63142):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:40  INFO Response being sent back:>
+HTTP/1.1 404 Not Found
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Page Not Found!</h1>
+    <h2>The page you requested was not found. Kindly validate the URL entered.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:40  INFO ==========================================================
+12-Feb-24 22:00:40  INFO A new client - ('127.0.0.1', 63146) has connected to the server.
+12-Feb-24 22:00:40  INFO New request received from ('127.0.0.1', 63146):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:40  INFO Response being sent back:>
+HTTP/1.1 200 OK
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>This is a sample HTML file!</h1>
+    <h2>It will be used to serve a very basic HTTP GET request.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:40  INFO ==========================================================
+12-Feb-24 22:00:40  INFO A new client - ('127.0.0.1', 63147) has connected to the server.
+12-Feb-24 22:00:41  INFO New request received from ('127.0.0.1', 63147):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:41  INFO Response being sent back:>
+HTTP/1.1 200 OK
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>This is a sample HTML file!</h1>
+    <h2>It will be used to serve a very basic HTTP GET request.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:41  INFO ==========================================================
+12-Feb-24 22:00:41  INFO A new client - ('127.0.0.1', 63149) has connected to the server.
+12-Feb-24 22:00:41  INFO New request received from ('127.0.0.1', 63149):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:41  INFO Response being sent back:>
+HTTP/1.1 404 Not Found
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Page Not Found!</h1>
+    <h2>The page you requested was not found. Kindly validate the URL entered.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:41  INFO ==========================================================
+12-Feb-24 22:00:41  INFO A new client - ('127.0.0.1', 63151) has connected to the server.
+12-Feb-24 22:00:42  INFO New request received from ('127.0.0.1', 63151):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:42  INFO Response being sent back:>
+HTTP/1.1 404 Not Found
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Page Not Found!</h1>
+    <h2>The page you requested was not found. Kindly validate the URL entered.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:42  INFO ==========================================================
+12-Feb-24 22:00:42  INFO A new client - ('127.0.0.1', 63154) has connected to the server.
+12-Feb-24 22:00:42  INFO New request received from ('127.0.0.1', 63154):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:42  INFO Response being sent back:>
+HTTP/1.1 404 Not Found
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Page Not Found!</h1>
+    <h2>The page you requested was not found. Kindly validate the URL entered.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:42  INFO ==========================================================
+12-Feb-24 22:00:42  INFO A new client - ('127.0.0.1', 63155) has connected to the server.
+12-Feb-24 22:00:42  INFO New request received from ('127.0.0.1', 63155):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:42  INFO Response being sent back:>
+HTTP/1.1 200 OK
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>This is a sample HTML file!</h1>
+    <h2>It will be used to serve a very basic HTTP GET request.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:42  INFO ==========================================================
+12-Feb-24 22:00:42  INFO A new client - ('127.0.0.1', 63157) has connected to the server.
+12-Feb-24 22:00:43  INFO New request received from ('127.0.0.1', 63157):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:43  INFO Response being sent back:>
+HTTP/1.1 404 Not Found
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Page Not Found!</h1>
+    <h2>The page you requested was not found. Kindly validate the URL entered.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:43  INFO ==========================================================
+12-Feb-24 22:00:43  INFO A new client - ('127.0.0.1', 63159) has connected to the server.
+12-Feb-24 22:00:44  INFO New request received from ('127.0.0.1', 63159):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:44  INFO Response being sent back:>
+HTTP/1.1 200 OK
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>This is a sample HTML file!</h1>
+    <h2>It will be used to serve a very basic HTTP GET request.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:44  INFO ==========================================================
+12-Feb-24 22:00:44  INFO A new client - ('127.0.0.1', 63163) has connected to the server.
+12-Feb-24 22:00:44  INFO New request received from ('127.0.0.1', 63163):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:44  INFO Response being sent back:>
+HTTP/1.1 200 OK
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>This is a sample HTML file!</h1>
+    <h2>It will be used to serve a very basic HTTP GET request.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:44  INFO ==========================================================
+12-Feb-24 22:00:44  INFO A new client - ('127.0.0.1', 63164) has connected to the server.
+12-Feb-24 22:00:45  INFO New request received from ('127.0.0.1', 63164):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:45  INFO Response being sent back:>
+HTTP/1.1 404 Not Found
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Page Not Found!</h1>
+    <h2>The page you requested was not found. Kindly validate the URL entered.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:45  INFO ==========================================================
+12-Feb-24 22:00:45  INFO A new client - ('127.0.0.1', 63167) has connected to the server.
+12-Feb-24 22:00:45  INFO New request received from ('127.0.0.1', 63167):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:45  INFO Response being sent back:>
+HTTP/1.1 404 Not Found
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Page Not Found!</h1>
+    <h2>The page you requested was not found. Kindly validate the URL entered.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:45  INFO ==========================================================
+12-Feb-24 22:00:45  INFO A new client - ('127.0.0.1', 63168) has connected to the server.
+12-Feb-24 22:00:46  INFO New request received from ('127.0.0.1', 63168):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:46  INFO Response being sent back:>
+HTTP/1.1 404 Not Found
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Page Not Found!</h1>
+    <h2>The page you requested was not found. Kindly validate the URL entered.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:46  INFO ==========================================================
+12-Feb-24 22:00:46  INFO A new client - ('127.0.0.1', 63172) has connected to the server.
+12-Feb-24 22:00:47  INFO New request received from ('127.0.0.1', 63172):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:47  INFO Response being sent back:>
+HTTP/1.1 404 Not Found
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Page Not Found!</h1>
+    <h2>The page you requested was not found. Kindly validate the URL entered.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:47  INFO ==========================================================
+12-Feb-24 22:00:47  INFO A new client - ('127.0.0.1', 63173) has connected to the server.
+12-Feb-24 22:00:47  INFO New request received from ('127.0.0.1', 63173):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:47  INFO Response being sent back:>
+HTTP/1.1 200 OK
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>This is a sample HTML file!</h1>
+    <h2>It will be used to serve a very basic HTTP GET request.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:47  INFO ==========================================================
+12-Feb-24 22:00:47  INFO A new client - ('127.0.0.1', 63175) has connected to the server.
+12-Feb-24 22:00:47  INFO New request received from ('127.0.0.1', 63175):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:47  INFO Response being sent back:>
+HTTP/1.1 200 OK
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>This is a sample HTML file!</h1>
+    <h2>It will be used to serve a very basic HTTP GET request.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:47  INFO ==========================================================
+12-Feb-24 22:00:47  INFO A new client - ('127.0.0.1', 63177) has connected to the server.
+12-Feb-24 22:00:51  INFO New request received from ('127.0.0.1', 63177):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:51  INFO Response being sent back:>
+HTTP/1.1 200 OK
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>This is a sample HTML file!</h1>
+    <h2>It will be used to serve a very basic HTTP GET request.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:51  INFO ==========================================================
+12-Feb-24 22:00:52  INFO A new client - ('127.0.0.1', 63183) has connected to the server.
+12-Feb-24 22:00:52  INFO New request received from ('127.0.0.1', 63183):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:52  INFO Response being sent back:>
+HTTP/1.1 404 Not Found
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Page Not Found!</h1>
+    <h2>The page you requested was not found. Kindly validate the URL entered.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:52  INFO ==========================================================
+12-Feb-24 22:00:52  INFO A new client - ('127.0.0.1', 63184) has connected to the server.
+12-Feb-24 22:00:52  INFO New request received from ('127.0.0.1', 63184):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:52  INFO Response being sent back:>
+HTTP/1.1 404 Not Found
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Page Not Found!</h1>
+    <h2>The page you requested was not found. Kindly validate the URL entered.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:52  INFO ==========================================================
+12-Feb-24 22:00:53  INFO A new client - ('127.0.0.1', 63186) has connected to the server.
+12-Feb-24 22:00:53  INFO New request received from ('127.0.0.1', 63186):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:53  INFO Response being sent back:>
+HTTP/1.1 200 OK
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>This is a sample HTML file!</h1>
+    <h2>It will be used to serve a very basic HTTP GET request.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:53  INFO ==========================================================
+12-Feb-24 22:00:53  INFO A new client - ('127.0.0.1', 63188) has connected to the server.
+12-Feb-24 22:00:57  INFO New request received from ('127.0.0.1', 63188):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:57  INFO Response being sent back:>
+HTTP/1.1 200 OK
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>This is a sample HTML file!</h1>
+    <h2>It will be used to serve a very basic HTTP GET request.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:57  INFO ==========================================================
+12-Feb-24 22:00:57  INFO A new client - ('127.0.0.1', 63192) has connected to the server.
+12-Feb-24 22:00:57  INFO New request received from ('127.0.0.1', 63192):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:57  INFO Response being sent back:>
+HTTP/1.1 200 OK
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>This is a sample HTML file!</h1>
+    <h2>It will be used to serve a very basic HTTP GET request.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:57  INFO ==========================================================
+12-Feb-24 22:00:57  INFO A new client - ('127.0.0.1', 63193) has connected to the server.
+12-Feb-24 22:00:58  INFO New request received from ('127.0.0.1', 63193):>
+GET / HTTP/1.1
+Host: localhost:24068
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:00:58  INFO Response being sent back:>
+HTTP/1.1 404 Not Found
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Page Not Found!</h1>
+    <h2>The page you requested was not found. Kindly validate the URL entered.</h2>
+</body>
+</html>
+
+12-Feb-24 22:00:58  INFO ==========================================================
+12-Feb-24 22:00:58  INFO A new client - ('127.0.0.1', 63197) has connected to the server.
+12-Feb-24 22:01:03  CRITICAL Exception occurred while processing HTTP requests from client: list index out of range
+12-Feb-24 22:02:28  INFO ==========================================================
+12-Feb-24 22:02:28  INFO Web server is listening at localhost:34483.
+12-Feb-24 22:02:39  INFO A new client - ('127.0.0.1', 63256) has connected to the server.
+12-Feb-24 22:02:39  INFO New request received from ('127.0.0.1', 63256):>
+GET / HTTP/1.1
+Host: localhost:34483
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:02:39  INFO Response being sent back:>
+HTTP/1.1 404 Not Found
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Page Not Found!</h1>
+    <h2>The page you requested was not found. Kindly validate the URL entered.</h2>
+</body>
+</html>
+
+12-Feb-24 22:02:39  INFO ==========================================================
+12-Feb-24 22:02:39  INFO A new client - ('127.0.0.1', 63257) has connected to the server.
+12-Feb-24 22:02:39  INFO New request received from ('127.0.0.1', 63257):>
+GET /favicon.ico HTTP/1.1
+Host: localhost:34483
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:34483/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
+
+12-Feb-24 22:02:39  INFO Response being sent back:>
+HTTP/1.1 404 Not Found
+Content-Type:text/html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page Not Found</title>
+</head>
+<body>
+    <h1>Page Not Found!</h1>
+    <h2>The page you requested was not found. Kindly validate the URL entered.</h2>
+</body>
+</html>
+
+12-Feb-24 22:02:39  INFO ==========================================================
+12-Feb-24 22:02:39  INFO A new client - ('127.0.0.1', 63259) has connected to the server.
+12-Feb-24 22:02:43  CRITICAL Exception occurred while processing HTTP requests from client: list index out of range

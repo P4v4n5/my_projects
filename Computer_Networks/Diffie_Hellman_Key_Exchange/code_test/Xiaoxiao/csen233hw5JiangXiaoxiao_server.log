@@ -1,0 +1,5 @@
+2024-02-18 16:34:31,956 - logger_helper - tcp_server - line 32 - INFO - 172.20.10.8 accepting connections at port 8007
+2024-02-18 16:34:53,067 - logger_helper - tcp_server - line 36 - INFO - Connection established with: ('172.20.10.8', 59556)
+2024-02-18 16:34:53,068 - logger_helper - zero_knowledge_key_exchange - line 18 - INFO - Shared Public Key (Server's): 105
+2024-02-18 16:34:53,068 - logger_helper - zero_knowledge_key_exchange - line 21 - INFO - Received Public Key (Client's): 89
+2024-02-18 16:34:53,068 - logger_helper - zero_knowledge_key_exchange - line 24 - INFO - Shared Secret: 105

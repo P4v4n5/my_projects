@@ -140,3 +140,4 @@ Content-Length: 88
 2024-02-08 18:25:56,809 - INFO - Received server response: {"request_type": "STATUS", "highest_bid": 55, "highest_bidder": "1:2", "n_clients": 1, "chant": 3, "status": "OPEN", "next_auction": null}
 2024-02-08 18:26:06,816 - INFO - Received server response: {"request_type": "CLOSE", "highest_bid": 55, "highest_bidder": "1:2", "n_clients": 1, "chant": 3, "status": "WINNER", "next_auction": null}
 2024-02-08 19:58:06,475 - ERROR - Error receiving message from server: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-02-12 18:52:58,439 - INFO - Client connection closed.

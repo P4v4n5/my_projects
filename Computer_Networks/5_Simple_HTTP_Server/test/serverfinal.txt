@@ -1,0 +1,311 @@
+2024-02-12 22:42:48,658 INFO Server listening on port 8000
+2024-02-12 22:42:50,623 INFO Client connected from ('127.0.0.1', 64566)
+2024-02-12 22:42:50,623 INFO Client connected from ('127.0.0.1', 64566)
+2024-02-12 22:42:50,623 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9,en-US;q=0.8
+Cookie: ajs_anonymous_id=00f465b6-663c-4dfe-8d54-ed2cef09acb1
+
+
+2024-02-12 22:42:50,623 INFO Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+This is the sample HTML file
+2024-02-12 22:42:50,624 INFO Client disconnected
+2024-02-12 22:42:50,717 INFO Client connected from ('127.0.0.1', 64567)
+2024-02-12 22:42:50,717 INFO Client connected from ('127.0.0.1', 64567)
+2024-02-12 22:42:50,717 INFO Received request:
+GET /favicon.ico HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8000/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9,en-US;q=0.8
+Cookie: ajs_anonymous_id=00f465b6-663c-4dfe-8d54-ed2cef09acb1
+
+
+2024-02-12 22:42:50,717 INFO Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+This is the sample HTML file
+2024-02-12 22:42:50,718 INFO Client disconnected
+2024-02-12 22:42:50,890 INFO Client connected from ('127.0.0.1', 64568)
+2024-02-12 22:42:50,890 INFO Client connected from ('127.0.0.1', 64568)
+2024-02-12 22:42:52,388 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9,en-US;q=0.8
+Cookie: ajs_anonymous_id=00f465b6-663c-4dfe-8d54-ed2cef09acb1
+
+
+2024-02-12 22:42:52,389 INFO Responding with error: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<h1>Error 404: Not Found</h1>
+2024-02-12 22:42:52,389 INFO Client disconnected
+2024-02-12 22:42:52,705 INFO Client connected from ('127.0.0.1', 64572)
+2024-02-12 22:42:52,705 INFO Client connected from ('127.0.0.1', 64572)
+2024-02-12 22:42:52,706 INFO Received request:
+GET /favicon.ico HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:8000/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9,en-US;q=0.8
+Cookie: ajs_anonymous_id=00f465b6-663c-4dfe-8d54-ed2cef09acb1
+
+
+2024-02-12 22:42:52,707 INFO Responding with error: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<h1>Error 404: Not Found</h1>
+2024-02-12 22:42:52,708 INFO Client disconnected
+2024-02-12 22:42:52,709 INFO Client connected from ('127.0.0.1', 64573)
+2024-02-12 22:42:52,709 INFO Client connected from ('127.0.0.1', 64573)
+2024-02-12 22:42:53,001 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9,en-US;q=0.8
+Cookie: ajs_anonymous_id=00f465b6-663c-4dfe-8d54-ed2cef09acb1
+
+
+2024-02-12 22:42:53,002 INFO Responding with error: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<h1>Error 404: Not Found</h1>
+2024-02-12 22:42:53,002 INFO Client disconnected
+2024-02-12 22:42:53,003 INFO Client connected from ('127.0.0.1', 64574)
+2024-02-12 22:42:53,003 INFO Client connected from ('127.0.0.1', 64574)
+2024-02-12 22:42:53,508 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9,en-US;q=0.8
+Cookie: ajs_anonymous_id=00f465b6-663c-4dfe-8d54-ed2cef09acb1
+
+
+2024-02-12 22:42:53,509 INFO Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+This is the sample HTML file
+2024-02-12 22:42:53,509 INFO Client disconnected
+2024-02-12 22:42:53,509 INFO Client connected from ('127.0.0.1', 64576)
+2024-02-12 22:42:53,510 INFO Client connected from ('127.0.0.1', 64576)
+2024-02-12 22:42:54,013 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9,en-US;q=0.8
+Cookie: ajs_anonymous_id=00f465b6-663c-4dfe-8d54-ed2cef09acb1
+
+
+2024-02-12 22:42:54,013 INFO Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+This is the sample HTML file
+2024-02-12 22:42:54,013 INFO Client disconnected
+2024-02-12 22:42:54,014 INFO Client connected from ('127.0.0.1', 64578)
+2024-02-12 22:42:54,014 INFO Client connected from ('127.0.0.1', 64578)
+2024-02-12 22:42:54,377 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9,en-US;q=0.8
+Cookie: ajs_anonymous_id=00f465b6-663c-4dfe-8d54-ed2cef09acb1
+
+
+2024-02-12 22:42:54,377 INFO Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+This is the sample HTML file
+2024-02-12 22:42:54,377 INFO Client disconnected
+2024-02-12 22:42:54,378 INFO Client connected from ('127.0.0.1', 64581)
+2024-02-12 22:42:54,378 INFO Client connected from ('127.0.0.1', 64581)
+2024-02-12 22:42:54,848 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9,en-US;q=0.8
+Cookie: ajs_anonymous_id=00f465b6-663c-4dfe-8d54-ed2cef09acb1
+
+
+2024-02-12 22:42:54,848 INFO Responding with error: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<h1>Error 404: Not Found</h1>
+2024-02-12 22:42:54,849 INFO Client disconnected
+2024-02-12 22:42:55,171 INFO Client connected from ('127.0.0.1', 64584)
+2024-02-12 22:42:55,172 INFO Client connected from ('127.0.0.1', 64584)
+2024-02-12 22:42:55,389 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9,en-US;q=0.8
+Cookie: ajs_anonymous_id=00f465b6-663c-4dfe-8d54-ed2cef09acb1
+
+
+2024-02-12 22:42:55,389 INFO Responding with error: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<h1>Error 404: Not Found</h1>
+2024-02-12 22:42:55,390 INFO Client disconnected
+2024-02-12 22:42:55,390 INFO Client connected from ('127.0.0.1', 64585)
+2024-02-12 22:42:55,390 INFO Client connected from ('127.0.0.1', 64585)
+2024-02-12 22:42:55,618 INFO Received request:
+GET / HTTP/1.1
+Host: localhost:8000
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9,en-US;q=0.8
+Cookie: ajs_anonymous_id=00f465b6-663c-4dfe-8d54-ed2cef09acb1
+
+
+2024-02-12 22:42:55,619 INFO Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+This is the sample HTML file
+2024-02-12 22:42:55,619 INFO Client disconnected
+2024-02-12 22:42:55,702 INFO Client connected from ('127.0.0.1', 64588)
+2024-02-12 22:42:55,702 INFO Client connected from ('127.0.0.1', 64588)
+2024-02-12 22:42:56,280 INFO Received request:
+
+2024-02-12 22:42:56,281 INFO Responding with error: HTTP/1.1 404 Not Found
+Content-Type: text/html
+
+<h1>Error 404: Not Found</h1>
+2024-02-12 22:42:56,281 INFO Client disconnected
+2024-02-12 22:42:56,281 INFO Client connected from ('127.0.0.1', 64589)
+2024-02-12 22:42:56,281 INFO Client connected from ('127.0.0.1', 64589)
+2024-02-12 22:42:56,282 INFO Received request:
+
+2024-02-12 22:42:56,282 INFO Responding with success: HTTP/1.1 200 OK
+Content-Type: text/html
+
+This is the sample HTML file
+2024-02-12 22:42:56,283 INFO Client disconnected

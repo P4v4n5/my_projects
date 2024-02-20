@@ -1,0 +1,3 @@
+2024-02-18 00:28:25,062 | tcp_user2_connection | line 45 | INFO | Shared Public Key : 52
+2024-02-18 00:28:25,063 | tcp_user2_connection | line 46 | INFO | Received Public Key : 108
+2024-02-18 00:28:25,063 | tcp_user2_connection | line 47 | INFO | Shared Secret: 108

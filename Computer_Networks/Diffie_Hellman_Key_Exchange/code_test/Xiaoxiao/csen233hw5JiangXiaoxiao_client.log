@@ -1,0 +1,5 @@
+2024-02-18 16:34:53,065 - logger_helper - main - line 37 - INFO - Attempting to connect to 172.20.10.8:8007
+2024-02-18 16:34:53,066 - logger_helper - main - line 39 - INFO - Connection established
+2024-02-18 16:34:53,066 - logger_helper - zero_knowledge_key_exchange - line 18 - INFO - Sending client public key: 89
+2024-02-18 16:34:53,068 - logger_helper - zero_knowledge_key_exchange - line 22 - INFO - Received server public key: 105
+2024-02-18 16:34:53,068 - logger_helper - zero_knowledge_key_exchange - line 26 - INFO - Shared Secret: 105
