@@ -1,0 +1,3 @@
+2024-03-12 14:36:56,579 | <module> | line 77 | INFO | Starting USER 2 script...
+2024-03-12 14:36:58,481 | <module> | line 79 | INFO | Entered decimal number is 2
+2024-03-12 14:37:08,526 | tcp_connection | line 36 | INFO | Connected to - 172.31.184.6:57572

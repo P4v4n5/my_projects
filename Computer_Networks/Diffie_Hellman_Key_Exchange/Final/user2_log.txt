@@ -1,4 +1,0 @@
-2024-02-18 16:56:08,576 | tcp_user2_connection | line 31 | INFO | Shared Public Key : 107
-2024-02-18 16:56:08,595 | tcp_user2_connection | line 47 | INFO | Shared Public Key : 107
-2024-02-18 16:56:08,595 | tcp_user2_connection | line 48 | INFO | Received Public Key : 65
-2024-02-18 16:56:08,595 | tcp_user2_connection | line 49 | INFO | Shared Secret: 54

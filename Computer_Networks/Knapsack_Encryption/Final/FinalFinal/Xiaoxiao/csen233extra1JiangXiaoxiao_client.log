@@ -1,0 +1,19 @@
+2024-03-12 10:25:40,354 - logger_helper - main - line 39 - INFO - Attempting to connect to 172.31.17.164:50117
+2024-03-12 10:25:40,354 - logger_helper - main - line 42 - INFO - Connection established
+2024-03-12 10:25:40,356 - logger_helper - zero_knowledge_key_exchange - line 19 - INFO - Sending client public key: 11
+2024-03-12 10:25:40,356 - logger_helper - zero_knowledge_key_exchange - line 31 - ERROR - Error during key exchange
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\Personal\GitHub_Personal\my_projects\Computer_Networks\Knapsack_Encryption\Final\FinalFinal\Xiaoxiao\user2.py", line 22, in zero_knowledge_key_exchange
+    server_public_key = int(client_socket.recv(1024).decode())
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x80 in position 0: invalid start byte
+2024-03-12 10:25:40,357 - logger_helper - main - line 45 - INFO - Waiting to receive message from server...
+2024-03-12 10:25:50,377 - logger_helper - main - line 48 - INFO - Receive encrypted message from server: b''
+2024-03-12 10:25:50,380 - logger_helper - main - line 56 - ERROR - Failed to establish connection or key exchange
+Traceback (most recent call last):
+  File "C:\Users\admin\PycharmProjects\Personal\GitHub_Personal\my_projects\Computer_Networks\Knapsack_Encryption\Final\FinalFinal\Xiaoxiao\user2.py", line 50, in main
+    decryped_msg = decrypt(shared_secret, encryped_msg).decode()
+  File "C:\Users\admin\PycharmProjects\Personal\GitHub_Personal\my_projects\Computer_Networks\Knapsack_Encryption\Final\FinalFinal\Xiaoxiao\aes_encryption.py", line 18, in decrypt
+    plain_text = pkcs7_unpad(decrypted_padded_message)
+  File "C:\Users\admin\PycharmProjects\Personal\GitHub_Personal\my_projects\Computer_Networks\Knapsack_Encryption\Final\FinalFinal\Xiaoxiao\aes_encryption.py", line 35, in pkcs7_unpad
+    padding_size = padded_message[-1]
+IndexError: index out of range

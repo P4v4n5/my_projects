@@ -1,0 +1,6 @@
+2024-03-09 19:47:26,236 | bind_to_local | line 63 | INFO | 10.0.0.218 accepting datagram at port 54485
+2024-03-09 19:47:35,167 | tcp_user1_connection | line 33 | INFO | Connection from: ('10.0.0.218', 54489)
+2024-03-09 19:47:37,941 | tcp_user1_connection | line 46 | INFO | Shared Public Key is --> 101
+2024-03-09 19:47:37,941 | tcp_user1_connection | line 47 | INFO | Received Public Key is --> 104
+2024-03-09 19:47:37,942 | tcp_user1_connection | line 48 | INFO | Shared Secret is --> 46
+2024-03-09 19:47:37,943 | tcp_user1_connection | line 53 | INFO | Encrypted message sent to USER 2 is --> b'g\x07\x9e\xbd\xc5T\xc1/t|\x0f\x89[\xe8\xe3)'

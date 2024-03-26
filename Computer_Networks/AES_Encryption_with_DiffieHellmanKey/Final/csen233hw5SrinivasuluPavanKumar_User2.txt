@@ -1,0 +1,8 @@
+2024-03-09 19:49:13,553 | tcp_user2_connection | line 28 | INFO | Entered IP Address : 10.0.0.218
+2024-03-09 19:49:15,072 | tcp_user2_connection | line 30 | INFO | Entered PORT Number : 8008
+2024-03-09 19:49:15,074 | tcp_user2_connection | line 46 | INFO | Shared Public Key is --> 90
+2024-03-09 19:49:15,074 | tcp_user2_connection | line 47 | INFO | Received Public Key is --> 67
+2024-03-09 19:49:15,074 | tcp_user2_connection | line 48 | INFO | Shared Secret is --> 55
+2024-03-09 19:49:15,075 | tcp_user2_connection | line 49 | INFO | Waiting to receive the Encrypted message from USER1
+2024-03-09 19:49:23,426 | tcp_user2_connection | line 52 | INFO | Encrypted text received from USER 1 is ---> b'/\xc7\x13>\x0f-G\x03zx\xc6\xb4\xaaA\xdb?'
+2024-03-09 19:49:23,427 | tcp_user2_connection | line 57 | INFO | Decrypted Message is --> ffffff

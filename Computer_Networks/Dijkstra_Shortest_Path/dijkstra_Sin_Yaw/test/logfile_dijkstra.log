@@ -1,0 +1,51 @@
+2024-03-05 13:06:07,225 - <module> - line 86 - ERROR - need topology file
+2024-03-05 13:06:25,552 - <module> - line 93 - INFO - loading net.json
+2024-03-05 13:07:35,077 - <module> - line 93 - INFO - loading net.json
+2024-03-05 13:08:48,363 - <module> - line 94 - INFO - loading net.json
+2024-03-05 13:10:35,766 - <module> - line 98 - INFO - loading net.json
+2024-03-05 13:10:35,766 - <module> - line 100 - INFO - net has 20 routers
+2024-03-05 13:10:35,766 - dijkstra - line 30 - INFO - Dijkstra's algorithm started from node R01 to R05.
+2024-03-05 13:10:35,766 - <module> - line 105 - INFO - Shortest path from R01 to R05: ['R01', 'R07', 'R05']
+2024-03-05 13:10:35,766 - <module> - line 106 - INFO - Length of the shortest path: 6
+2024-03-05 13:11:11,447 - <module> - line 98 - INFO - loading net.json
+2024-03-05 13:11:11,447 - <module> - line 100 - INFO - net has 20 routers
+2024-03-05 13:11:11,447 - dijkstra - line 30 - INFO - Dijkstra's algorithm started from node R01 to R01.
+2024-03-05 13:11:11,447 - dijkstra - line 32 - INFO - Source node R01 and destination node R01 are the same.
+2024-03-05 13:11:11,447 - <module> - line 105 - INFO - Shortest path from R01 to R01: ['R01']
+2024-03-05 13:11:11,447 - <module> - line 106 - INFO - Length of the shortest path: 0
+2024-03-05 13:11:55,484 - <module> - line 98 - INFO - loading net.json
+2024-03-05 13:11:55,486 - <module> - line 100 - INFO - net has 20 routers
+2024-03-05 13:11:55,486 - dijkstra - line 30 - INFO - Dijkstra's algorithm started from node R01 to R20.
+2024-03-05 13:11:55,486 - <module> - line 105 - INFO - Shortest path from R01 to R20: ['R01', 'R07', 'R03', 'R20']
+2024-03-05 13:11:55,486 - <module> - line 106 - INFO - Length of the shortest path: 25
+2024-03-05 13:12:04,320 - <module> - line 98 - INFO - loading net.json
+2024-03-05 13:12:04,320 - <module> - line 100 - INFO - net has 20 routers
+2024-03-05 13:12:04,320 - dijkstra - line 30 - INFO - Dijkstra's algorithm started from node R01 to R19.
+2024-03-05 13:12:04,320 - <module> - line 105 - INFO - Shortest path from R01 to R19: ['R01', 'R07', 'R19']
+2024-03-05 13:12:04,320 - <module> - line 106 - INFO - Length of the shortest path: 25
+2024-03-05 13:32:12,423 - <module> - line 98 - INFO - loading net.json
+2024-03-05 13:32:12,434 - <module> - line 100 - INFO - net has 20 routers
+2024-03-05 13:32:12,434 - dijkstra - line 30 - INFO - Dijkstra's algorithm started from node R01 to R19.
+2024-03-05 13:32:12,434 - <module> - line 105 - INFO - Shortest path from R01 to R19: ['R01', 'R07', 'R19']
+2024-03-05 13:32:12,434 - <module> - line 106 - INFO - Length of the shortest path: 25
+2024-03-05 13:35:25,759 - main - line 97 - INFO - loading net.json
+2024-03-05 13:35:25,759 - main - line 99 - INFO - net has 20 routers
+2024-03-05 13:35:25,759 - dijkstra - line 30 - INFO - Dijkstra's algorithm started from node R01 to R19.
+2024-03-05 13:35:25,759 - main - line 104 - INFO - Shortest path from R01 to R19: ['R01', 'R07', 'R19']
+2024-03-05 13:35:25,759 - main - line 105 - INFO - Length of the shortest path: 25
+2024-03-05 13:35:40,227 - main - line 97 - INFO - loading net.json
+2024-03-05 13:35:40,227 - main - line 99 - INFO - net has 20 routers
+2024-03-05 13:35:40,227 - dijkstra - line 30 - INFO - Dijkstra's algorithm started from node R01 to R01.
+2024-03-05 13:35:40,227 - dijkstra - line 32 - INFO - Source node R01 and destination node R01 are the same.
+2024-03-05 13:35:40,227 - main - line 104 - INFO - Shortest path from R01 to R01: ['R01']
+2024-03-05 13:35:40,227 - main - line 105 - INFO - Length of the shortest path: 0
+2024-03-05 15:13:58,421 - <module> - line 93 - INFO - loading net.json
+2024-03-05 15:13:58,421 - <module> - line 95 - INFO - net has 20 routers
+2024-03-05 15:13:58,421 - dijkstra - line 26 - INFO - Dijkstra's algorithm started from node R11 to R04.
+2024-03-05 15:13:58,421 - <module> - line 100 - INFO - Shortest path from R11 to R04: ['R11', 'R12', 'R06', 'R04']
+2024-03-05 15:13:58,421 - <module> - line 101 - INFO - Length of the shortest path: 65
+2024-03-05 15:14:04,166 - <module> - line 93 - INFO - loading net.json
+2024-03-05 15:14:04,167 - <module> - line 95 - INFO - net has 20 routers
+2024-03-05 15:14:04,168 - dijkstra - line 26 - INFO - Dijkstra's algorithm started from node R11 to R05.
+2024-03-05 15:14:04,168 - <module> - line 100 - INFO - Shortest path from R11 to R05: ['R11', 'R12', 'R06', 'R09', 'R16', 'R05']
+2024-03-05 15:14:04,168 - <module> - line 101 - INFO - Length of the shortest path: 45

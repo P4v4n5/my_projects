@@ -1,0 +1,12 @@
+2024-03-12 23:47:08,964 | main | line 69 | INFO | Topology file that is considered is .\net.json
+2024-03-12 23:47:08,965 | main | line 73 | INFO | Shortest path from R01 to R20 is ---> ['R01', 'R07', 'R03', 'R20']
+2024-03-12 23:47:08,966 | main | line 74 | INFO | Length of the shortest path is ---> 25
+2024-03-12 23:47:08,966 | send_data | line 27 | INFO | Router R01: Sending packet to R20 via R07 with cost: 2
+2024-03-12 23:47:08,967 | send_data | line 27 | INFO | Router R07: Sending packet to R20 via R03 with cost: 2
+2024-03-12 23:47:08,968 | send_data | line 27 | INFO | Router R03: Sending packet to R20 via R20 with cost: 21
+2024-03-12 23:47:08,969 | receive_data | line 39 | INFO | Router R20: Packet received from R03. Data: Received the packet successfully
+2024-03-12 23:47:08,969 | main | line 81 | INFO | 
+Testing negative scenario: Packet drop simulation.
+2024-03-12 23:47:08,970 | main | line 87 | INFO | 
+Sending packet from R01 to R10969418
+2024-03-12 23:47:08,970 | send_data | line 34 | INFO | Source router ---> R01 | Target router ---> R10969418. There is no FIB entry for R10969418. Hence, the packet got dropped.

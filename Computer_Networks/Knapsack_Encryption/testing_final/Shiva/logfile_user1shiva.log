@@ -1,0 +1,9 @@
+2024-03-12 14:38:16,184 - <module> - line 136 - INFO - Starting USER 1 script...
+2024-03-12 14:38:16,193 - main - line 102 - INFO - User1 is listening on 172.20.206.194:50562
+2024-03-12 14:38:30,719 - main - line 105 - INFO - Connected by ('172.20.206.194', 50567)
+2024-03-12 14:38:30,721 - main - line 108 - INFO - Super Increasing Key/Private key is: [1, 2, 4, 8, 16, 32]
+2024-03-12 14:38:30,721 - main - line 110 - INFO - Multiplexer and Modulus respectively are: (47, 126)
+2024-03-12 14:38:30,721 - main - line 113 - INFO - The Public Key that would be shared to user2 is: [47, 94, 62, 124, 122, 118]
+2024-03-12 14:38:30,722 - main - line 115 - INFO - Waiting for a Cipher text from user2!!
+2024-03-12 14:38:40,737 - create_decrypt_matrix - line 65 - INFO - multiplexer_inverse: 59
+2024-03-12 14:38:40,737 - main - line 129 - INFO - The Message that is shared by user2 to user1 is: 2

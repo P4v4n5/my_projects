@@ -1,0 +1,7 @@
+2024-03-09 19:49:09,742 - logger_helper - tcp_server - line 33 - INFO - 10.0.0.218 accepting connections at port 8008
+2024-03-09 19:49:15,074 - logger_helper - tcp_server - line 37 - INFO - Connection established with: ('10.0.0.218', 54533)
+2024-03-09 19:49:15,074 - logger_helper - zero_knowledge_key_exchange - line 18 - INFO - Shared Public Key (Server's): 67
+2024-03-09 19:49:15,074 - logger_helper - zero_knowledge_key_exchange - line 21 - INFO - Received Public Key (Client's): 90
+2024-03-09 19:49:15,074 - logger_helper - zero_knowledge_key_exchange - line 24 - INFO - Shared Secret: 55
+2024-03-09 19:49:23,424 - logger_helper - tcp_server - line 41 - INFO - The original meesage is: ffffff
+2024-03-09 19:49:23,425 - logger_helper - tcp_server - line 44 - INFO - Send encryped message: b'/\xc7\x13>\x0f-G\x03zx\xc6\xb4\xaaA\xdb?'

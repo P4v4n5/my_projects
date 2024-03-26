@@ -1,0 +1,6 @@
+2024-03-12 11:03:54,548 | bind_to_local | line 63 | INFO | 172.31.17.164 accepting datagram at port 51853
+2024-03-12 11:04:16,922 | tcp_user1_connection | line 33 | INFO | Connection from: ('172.31.17.164', 51868)
+2024-03-12 11:05:04,739 | tcp_user1_connection | line 46 | INFO | Shared Public Key is --> 37
+2024-03-12 11:05:04,739 | tcp_user1_connection | line 47 | INFO | Received Public Key is --> 77
+2024-03-12 11:05:04,740 | tcp_user1_connection | line 48 | INFO | Shared Secret is --> 19
+2024-03-12 11:05:04,741 | tcp_user1_connection | line 53 | INFO | Encrypted message sent to USER 2 is --> b'%\x86\xffh\x99P}\x85\x9a\xf9\xd0H\xb0\x94\xacd0{\x17Jk\x1e\x93\xfa\x1e\xaaV\x1d\x8b-\xb5\xe1\x1bw\xba\x97-\xc8Tmh\xdaL\xd1b\xe2\xf4}\x8a\xab?\x82\x10\n\x19l\xeaGJ\xb1~\xe3\x9f\xc8\xef\xf3*s\x0fo\xa8H\x88[;wX\xde\x90\x17$\xb1\x9e@\x8f\xfc\x80\xcd\x7f\x92\x93:b\x0bi\x83\xcf\xa8\x80\xd5X\x0c\x04\x87&\xe0{\xa5Z\xb5\xac\x10'

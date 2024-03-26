@@ -1,0 +1,5 @@
+2024-02-20 12:20:14,997 - logger_helper - tcp_server - line 32 - INFO - 10.0.0.8 accepting connections at port 8008
+2024-02-20 12:20:34,477 - logger_helper - tcp_server - line 36 - INFO - Connection established with: ('10.0.0.200', 58089)
+2024-02-20 12:20:34,478 - logger_helper - zero_knowledge_key_exchange - line 18 - INFO - Shared Public Key (Server's): 73
+2024-02-20 12:20:34,487 - logger_helper - zero_knowledge_key_exchange - line 21 - INFO - Received Public Key (Client's): 39
+2024-02-20 12:20:34,487 - logger_helper - zero_knowledge_key_exchange - line 24 - INFO - Shared Secret: 5

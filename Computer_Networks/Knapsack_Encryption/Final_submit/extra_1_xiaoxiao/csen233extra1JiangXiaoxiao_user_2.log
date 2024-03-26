@@ -1,0 +1,8 @@
+2024-03-12 11:04:16,919 - logger_helper - main - line 39 - INFO - Attempting to connect to 172.31.17.164:51853
+2024-03-12 11:04:16,920 - logger_helper - main - line 42 - INFO - Connection established
+2024-03-12 11:04:16,920 - logger_helper - zero_knowledge_key_exchange - line 19 - INFO - Sending client public key: 77
+2024-03-12 11:04:16,922 - logger_helper - zero_knowledge_key_exchange - line 23 - INFO - Received server public key: 37
+2024-03-12 11:04:16,923 - logger_helper - zero_knowledge_key_exchange - line 26 - INFO - Shared Secret: 19
+2024-03-12 11:04:16,923 - logger_helper - main - line 45 - INFO - Waiting to receive message from server...
+2024-03-12 11:05:04,742 - logger_helper - main - line 48 - INFO - Receive encrypted message from server: b'%\x86\xffh\x99P}\x85\x9a\xf9\xd0H\xb0\x94\xacd0{\x17Jk\x1e\x93\xfa\x1e\xaaV\x1d\x8b-\xb5\xe1\x1bw\xba\x97-\xc8Tmh\xdaL\xd1b\xe2\xf4}\x8a\xab?\x82\x10\n\x19l\xeaGJ\xb1~\xe3\x9f\xc8\xef\xf3*s\x0fo\xa8H\x88[;wX\xde\x90\x17$\xb1\x9e@\x8f\xfc\x80\xcd\x7f\x92\x93:b\x0bi\x83\xcf\xa8\x80\xd5X\x0c\x04\x87&\xe0{\xa5Z\xb5\xac\x10'
+2024-03-12 11:05:04,743 - logger_helper - main - line 51 - INFO - Decrypted Message: You are receiving this message from Pavan - "The secret spell to open the secret door is - Alohomora"

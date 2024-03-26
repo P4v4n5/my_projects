@@ -1,0 +1,7 @@
+2024-03-08 21:46:20,019 - logger_helper - <module> - line 129 - INFO - Randomly choose two routers -- source router: R10, dest router: R15
+2024-03-08 21:46:20,021 - logger_helper - <module> - line 130 - INFO - Positive test: Trying to send data from R10 to R15
+2024-03-08 21:46:20,021 - logger_helper - <module> - line 136 - INFO - Shortest path from R10 to R15 shall be ['R10', 'R12', 'R15']
+2024-03-08 21:46:20,022 - logger_helper - recvData - line 41 - INFO - Router R12: Forwarding packet. Data: hello world
+2024-03-08 21:46:20,022 - logger_helper - recvData - line 37 - INFO - Router R15: Packet received. Data: hello world
+2024-03-08 21:46:20,022 - logger_helper - <module> - line 141 - INFO - Negative test: Trying to send data from R10 to R21, which is not reachable in FIB
+2024-03-08 21:46:20,023 - logger_helper - sendData - line 30 - INFO - Router R10: No FIB entry for destination R21. Dropping packet.

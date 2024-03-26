@@ -1,0 +1,5 @@
+2024-02-20 01:38:33,509 | tcp_user2_connection | line 55 | INFO | Shared Public Key : 34
+2024-02-20 01:38:33,514 | tcp_user2_connection | line 71 | INFO | Shared Public Key : 34
+2024-02-20 01:38:33,514 | tcp_user2_connection | line 72 | INFO | Received Public Key : 40
+2024-02-20 01:38:33,514 | tcp_user2_connection | line 73 | INFO | Shared Secret: 4
+2024-02-20 01:38:33,517 | tcp_user2_connection | line 79 | INFO | Hey! the secret spell to open the treasure door is - Alohomora

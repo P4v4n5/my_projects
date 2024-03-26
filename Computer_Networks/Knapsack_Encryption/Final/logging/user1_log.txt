@@ -1,0 +1,9 @@
+2024-03-04 16:55:39,346 | <module> | line 145 | INFO | Starting USER 1 script...
+2024-03-04 16:55:39,346 | main | line 112 | INFO | Randomly generated Super Increasing Key/Private key is ---> [1, 2, 4, 8, 16, 32]
+2024-03-04 16:55:39,346 | main | line 115 | INFO | Multiplexer and Modulus respectively are ---> (93, 95)
+2024-03-04 16:55:39,347 | main | line 119 | INFO | The calculated Public Key that would be shared is ---> [93, 91, 87, 79, 63, 31]
+2024-03-04 16:55:39,366 | bind_to_local | line 102 | INFO | 10.0.0.218 accepting datagram at port 61506
+2024-03-04 16:56:01,550 | main | line 127 | INFO | The above Public key is shared to USER 2, so as to receive a Cipher text
+2024-03-04 16:56:01,550 | main | line 128 | INFO | Waiting for a Cipher text from USER 2........
+2024-03-04 16:56:11,557 | decrypt_matrix_generator | line 59 | INFO | multiplexer_inverse: 47
+2024-03-04 16:56:11,558 | main | line 140 | INFO | The final Plaintext/Message that is shared by USER 2 to USER 1 is --> [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]

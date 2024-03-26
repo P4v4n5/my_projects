@@ -1,0 +1,8 @@
+2024-03-12 11:06:42,937 | tcp_user2_connection | line 28 | INFO | Entered IP Address : 172.31.17.164
+2024-03-12 11:06:49,795 | tcp_user2_connection | line 30 | INFO | Entered PORT Number : 8008
+2024-03-12 11:06:49,799 | tcp_user2_connection | line 46 | INFO | Shared Public Key is --> 1
+2024-03-12 11:06:49,799 | tcp_user2_connection | line 47 | INFO | Received Public Key is --> 90
+2024-03-12 11:06:49,800 | tcp_user2_connection | line 48 | INFO | Shared Secret is --> 1
+2024-03-12 11:06:49,800 | tcp_user2_connection | line 49 | INFO | Waiting to receive the Encrypted message from USER1
+2024-03-12 11:08:02,763 | tcp_user2_connection | line 52 | INFO | Encrypted text received from USER 1 is ---> b"\x12\xea#\xa6@\xf3\x9f\xe2\xd8\xb4\xb6EE\x94\x0cw\x00\x95\xe4\xe3\x05m\xa8c\xa7\xd9^\x0c5\x01\x00\xd9\x19|\xcae\xec\xc6\x17\xab\x81\x892\x15K\x8a\xd4\x1a\x8d\xe9\x9b\xc1g\x99\x01UXV\x87\x01\xe3\xf3\x17\xfek'\x7fJ\x06)y!\x1ect\x8eF \x04\x10\x1d\x02Q\xa3\x97T=h\xa6\xd4\xe9\xfboPx\xfe\xbeV\xd7&\x9a\xd8\x9eL\x0e\xd0\x0fh1\xb3\xcf\x90"
+2024-03-12 11:08:02,764 | tcp_user2_connection | line 57 | INFO | Wohoooooo!!! Decrypted Message is --> You are receiving this message from Xiaoxiao - "The secret spell worked an dthe door got opened!!!"

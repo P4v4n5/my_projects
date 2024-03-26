@@ -1,0 +1,7 @@
+2024-03-09 20:07:05,722 | bind_to_local | line 64 | INFO | 10.0.0.218 accepting datagram at port 55123
+2024-03-09 20:07:26,765 | tcp_user1_connection | line 33 | INFO | Connection from: ('10.0.0.218', 55137)
+2024-03-09 20:07:34,891 | tcp_user1_connection | line 45 | INFO | The secret message entered by USER 1 is ---> hellloooooo
+2024-03-09 20:07:34,891 | tcp_user1_connection | line 47 | INFO | Shared Public Key is --> 49
+2024-03-09 20:07:34,892 | tcp_user1_connection | line 48 | INFO | Received Public Key is --> 48
+2024-03-09 20:07:34,892 | tcp_user1_connection | line 49 | INFO | Shared Secret is --> 25
+2024-03-09 20:07:34,894 | tcp_user1_connection | line 54 | INFO | Encrypted message sent to USER 2 is --> b'\x89|\xc4\xcb\x0eJ|\xdf\xa8\xb6\xe1\xdc\xf7\x99\xc5~'

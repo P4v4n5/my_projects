@@ -1,0 +1,5 @@
+2024-02-20 12:20:34,282 | tcp_user2_connection | line 31 | INFO | Connected to - 10.0.0.8:8008
+2024-02-20 12:20:34,282 | tcp_user2_connection | line 33 | INFO | Shared Public Key : 39
+2024-02-20 12:20:34,326 | tcp_user2_connection | line 49 | INFO | Shared Public Key : 39
+2024-02-20 12:20:34,326 | tcp_user2_connection | line 50 | INFO | Received Public Key : 73
+2024-02-20 12:20:34,326 | tcp_user2_connection | line 51 | INFO | Shared Secret: 5

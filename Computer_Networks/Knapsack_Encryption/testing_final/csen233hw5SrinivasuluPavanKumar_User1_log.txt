@@ -1,0 +1,5 @@
+2024-03-12 14:33:50,248 | <module> | line 153 | INFO | Starting USER 1 script...
+2024-03-12 14:33:50,248 | main | line 112 | INFO | Randomly generated Super Increasing Key/Private key is ---> [1, 2, 4, 8, 16, 32]
+2024-03-12 14:33:50,248 | main | line 115 | INFO | Multiplexer and Modulus respectively are ---> (41, 95)
+2024-03-12 14:33:50,248 | main | line 119 | INFO | The calculated Public Key that would be shared is ---> [41, 82, 69, 43, 86, 77]
+2024-03-12 14:33:50,257 | bind_to_local | line 98 | INFO | 172.20.206.194 accepting datagram at port 50504

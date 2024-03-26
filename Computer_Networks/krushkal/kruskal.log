@@ -1,0 +1,23 @@
+Loading .\net.json
+The network has 20 routers.
+Minimum Spanning Tree:
+R01 -- 2 -> R07
+R03 -- 2 -> R07
+R05 -- 2 -> R16
+R07 -- 2 -> R18
+R09 -- 2 -> R16
+R05 -- 4 -> R07
+R10 -- 7 -> R12
+R09 -- 8 -> R14
+R06 -- 9 -> R14
+R16 -- 10 -> R17
+R06 -- 11 -> R12
+R14 -- 12 -> R15
+R02 -- 13 -> R08
+R11 -- 15 -> R12
+R06 -- 16 -> R20
+R19 -- 16 -> R20
+R02 -- 20 -> R18
+R02 -- 21 -> R04
+R05 -- 25 -> R13
+Total Cost of MST: 197

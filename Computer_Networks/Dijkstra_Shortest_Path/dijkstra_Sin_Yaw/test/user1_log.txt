@@ -1,0 +1,4 @@
+2024-03-05 15:14:10,205 | main | line 39 | INFO | Loading and parsing through the file, net.json
+2024-03-05 15:14:10,205 | main | line 42 | INFO | Total number of routers present in this net are ---> 20
+2024-03-05 15:14:10,205 | main | line 46 | INFO | Shortest path from R11 to R05 is ---> ['R11', 'R12', 'R06', 'R09', 'R16', 'R05']
+2024-03-05 15:14:10,205 | main | line 47 | INFO | Length of the shortest path is ---> 45

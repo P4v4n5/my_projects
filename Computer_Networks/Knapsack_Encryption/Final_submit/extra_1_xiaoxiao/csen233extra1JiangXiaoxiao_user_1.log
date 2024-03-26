@@ -1,0 +1,7 @@
+2024-03-12 11:06:31,757 - logger_helper - tcp_server - line 33 - INFO - 172.31.17.164 accepting connections at port 8008
+2024-03-12 11:06:49,799 - logger_helper - tcp_server - line 37 - INFO - Connection established with: ('172.31.17.164', 51980)
+2024-03-12 11:06:49,799 - logger_helper - zero_knowledge_key_exchange - line 18 - INFO - Shared Public Key (Server's): 90
+2024-03-12 11:06:49,799 - logger_helper - zero_knowledge_key_exchange - line 21 - INFO - Received Public Key (Client's): 1
+2024-03-12 11:06:49,799 - logger_helper - zero_knowledge_key_exchange - line 24 - INFO - Shared Secret: 1
+2024-03-12 11:08:02,762 - logger_helper - tcp_server - line 41 - INFO - The original meesage is: You are receiving this message from Xiaoxiao - "The secret spell worked an dthe door got opened!!!"
+2024-03-12 11:08:02,763 - logger_helper - tcp_server - line 44 - INFO - Send encryped message: b"\x12\xea#\xa6@\xf3\x9f\xe2\xd8\xb4\xb6EE\x94\x0cw\x00\x95\xe4\xe3\x05m\xa8c\xa7\xd9^\x0c5\x01\x00\xd9\x19|\xcae\xec\xc6\x17\xab\x81\x892\x15K\x8a\xd4\x1a\x8d\xe9\x9b\xc1g\x99\x01UXV\x87\x01\xe3\xf3\x17\xfek'\x7fJ\x06)y!\x1ect\x8eF \x04\x10\x1d\x02Q\xa3\x97T=h\xa6\xd4\xe9\xfboPx\xfe\xbeV\xd7&\x9a\xd8\x9eL\x0e\xd0\x0fh1\xb3\xcf\x90"

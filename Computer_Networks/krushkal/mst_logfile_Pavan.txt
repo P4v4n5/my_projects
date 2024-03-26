@@ -1,0 +1,22 @@
+2024-03-12 12:11:59,625 | main | line 69 | INFO | The total number of routers present in the network is 20
+2024-03-12 12:11:59,625 | main | line 73 | INFO | --**--**--**--Minimum Spanning Tree--**--**--**--
+2024-03-12 12:11:59,625 | main | line 75 | INFO | From: R01 ---> To: R07 | Cost: 2 
+2024-03-12 12:11:59,641 | main | line 75 | INFO | From: R03 ---> To: R07 | Cost: 2 
+2024-03-12 12:11:59,641 | main | line 75 | INFO | From: R05 ---> To: R16 | Cost: 2 
+2024-03-12 12:11:59,641 | main | line 75 | INFO | From: R07 ---> To: R18 | Cost: 2 
+2024-03-12 12:11:59,642 | main | line 75 | INFO | From: R09 ---> To: R16 | Cost: 2 
+2024-03-12 12:11:59,643 | main | line 75 | INFO | From: R05 ---> To: R07 | Cost: 4 
+2024-03-12 12:11:59,643 | main | line 75 | INFO | From: R10 ---> To: R12 | Cost: 7 
+2024-03-12 12:11:59,643 | main | line 75 | INFO | From: R09 ---> To: R14 | Cost: 8 
+2024-03-12 12:11:59,643 | main | line 75 | INFO | From: R06 ---> To: R14 | Cost: 9 
+2024-03-12 12:11:59,643 | main | line 75 | INFO | From: R16 ---> To: R17 | Cost: 10 
+2024-03-12 12:11:59,643 | main | line 75 | INFO | From: R06 ---> To: R12 | Cost: 11 
+2024-03-12 12:11:59,643 | main | line 75 | INFO | From: R14 ---> To: R15 | Cost: 12 
+2024-03-12 12:11:59,643 | main | line 75 | INFO | From: R02 ---> To: R08 | Cost: 13 
+2024-03-12 12:11:59,646 | main | line 75 | INFO | From: R11 ---> To: R12 | Cost: 15 
+2024-03-12 12:11:59,646 | main | line 75 | INFO | From: R06 ---> To: R20 | Cost: 16 
+2024-03-12 12:11:59,646 | main | line 75 | INFO | From: R19 ---> To: R20 | Cost: 16 
+2024-03-12 12:11:59,647 | main | line 75 | INFO | From: R02 ---> To: R18 | Cost: 20 
+2024-03-12 12:11:59,647 | main | line 75 | INFO | From: R02 ---> To: R04 | Cost: 21 
+2024-03-12 12:11:59,647 | main | line 75 | INFO | From: R05 ---> To: R13 | Cost: 25 
+2024-03-12 12:11:59,647 | main | line 76 | INFO | Total Cost of MST: 197

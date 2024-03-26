@@ -1,4 +1,4 @@
-# Maintainer: GROUP - 5 | Kalle Meghana, Srinivasulu Pavan Kumar, Liu Weihao
+# Maintainer: GROUP - 5 | Kalle Meghana, Srinivasulu Xiaoxiao Kumar, Liu Weihao
 # Eamil_ID's: mkalle@scu.edu, psrinivasulu@scu.edu, wliu4@scu.edu
 
 import socket
